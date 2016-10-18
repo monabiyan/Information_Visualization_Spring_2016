@@ -1,0 +1,1 @@
+This is the Information Visualization course with R. 
