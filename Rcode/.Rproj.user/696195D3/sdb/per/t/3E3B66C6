@@ -1,0 +1,18 @@
+{
+    "contents" : "rm(list = ls())          #clear workspace\n\n#install.packages(\"igraph\")   #install and load igrph library\nlibrary(igraph)\n\n# quickstart\n# load edge list as tab delimited text file into a new data frame \"lesmis\"\n# you can also use read.csv(\"data/lesmis.txt\", sep=\"\\t\", header = FALSE)\nlesmis <- read.delim(\"data/lesmis.txt\", header = FALSE)\nmis <- graph.data.frame(lesmis)   # parse the dataframe into the igraph object mis\nplot(mis)                         # render the igraph object\n\n# now again more in detail\n# parse the same data frame as undirected graph\nmis <- graph.data.frame(lesmis, directed = FALSE)\n\n# basic functions\nvcount(mis)           # list table of vertices (nodes)\necount(mis)           # list table of edges \ndegree(mis)           # list table of degree values\nbetweenness(mis)      # list table of betweenness values\ncloseness(mis)        # list table of closeness values\n\nV(mis)                # get vector with all vertices (nodes)\nE(mis)                # get vector with all edges\n\n# create a color palette with 10 steps\nlibrary(colorspace)\npal <- choose_palette()\nncol <- 25           # we will use 25 color steps\npalette(pal(ncol))\n\n#attach centralities as attributes to data the graph, normalized to 0-1\nV(mis)$degree       <-  degree(mis, normalized = TRUE)\nV(mis)$betweenness  <-  betweenness(mis, normalized = TRUE)\nV(mis)$closeness    <-  closeness(mis, normalized = TRUE)\n\n# set default options for layout\n# for other layout options check http://igraph.org/r/doc/layout.html\n# for other igraph options check http://igraph.org/r/doc/plot.common.html\nigraph.options(layout=layout.kamada.kawai,\n               vertex.label = NA,           # dont show labels by default\n               vertex.size = 15,            # default node size\n               vertex.frame.color = NA,     # the border color of the node\n               vertex.color = \"lightblue\")  # default node color \n\n# set node size to degree\nV(mis)$size  <- V(mis)$degree * 25   # assign size to closeness, adjust value for good size\nV(mis)$color <- V(mis)$betweenness * ncol  # assign color to betweenness, scaled to number of colors\nV(mis)$color <- V(mis)$closeness   * ncol  # assign color to closeness, scaled to number of colors\nplot(mis)\n\n# now lets try an interactive network plot\n# https://christophergandrud.github.io/networkD3/\n# install.packages(\"networkD3\")\nlibrary(networkD3)\n\n# for the d3 network we need the original data frame with the edge list\nlesmis <- read.delim(\"data/lesmis.txt\", header = FALSE)\nn <- simpleNetwork(lesmis)\nn\nsaveNetwork(n, file = \"lesmis.html\") #save our javascript network to a html file\n",
+    "created" : 1433010219716.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3745196475",
+    "id" : "3E3B66C6",
+    "lastKnownWriteTime" : 1433029683,
+    "path" : "~/Dropbox/INTDISC_DSSH6302/Rcode/networks.R",
+    "project_path" : "networks.R",
+    "properties" : {
+        "notebook_format" : "html_document",
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,17 @@
+{
+    "contents" : "install.packages(\"SOMbrero\", dependencies=TRUE)",
+    "created" : 1434033865569.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4007520043",
+    "id" : "BA6AFBA0",
+    "lastKnownWriteTime" : 1433010238,
+    "path" : "C:/Users/melanie.kasparian/Dropbox (NUOEL)/INTDISC_DSSH6302/Rcode/tmp.R",
+    "project_path" : "tmp.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

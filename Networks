@@ -1,0 +1,21 @@
+Networks:
+	
+
+	tree: no cycle, every tow node are connected through only one path. 
+
+	Network representation:  1) SOURCE  TARGE  2) NODE   Properties
+
+
+	Matrix representation of Networks
+
+	for undirected, matrix is symetrical
+
+	
+	Language as a Network
+	Infrustructure Networks
+	friendship networks
+
+
+	Degree centerality    number of connection for a node
+	Closnes centerality
+	Betweenness centerality  connect diffrent part of the networks (Very important)

@@ -1,0 +1,16 @@
+{
+    "contents" : "# http://www.noamross.net/blog/2014/2/10/using-times-and-dates-in-r---presentation-code.html\n\n# load json files\n#install.packages(\"jsonlite\")\nlibrary(jsonlite)\n\n# learn how to use jsonlite by browsing the vignettes\nbrowseVignettes(\"jsonlite\")\n\n# a json data set of 10 food inspections in Boston\n# see https://data.cityofboston.gov/Health/Food-Establishment-Inspections/qndu-wx8w\n# and http://dev.socrata.com/consumers/getting-started.html\nurl <- \"https://data.cityofboston.gov/resource/qndu-wx8w.json?$limit=150\"\nfood <- fromJSON(url)\n\n#inspect the loaded file\nhead(food)\nstr(food)\n\n# here we have a date field in internet ISO format\nfood$issdttm\n\n# we create a new variable using only the date\n# in this case, as.Date automatically recognizes the format\nfood$date <- as.Date(food$issdttm)\nfood$date\n\n# if necessary we could also specify the format manually, for example\nas.Date(\"04/23/2015\", format = \"%m/%d/%Y\")\n\n# calculation with time\n# how many inspections on weekdays, months, quarters?\nweekdays(food$date)\nmonths(food$date)\nquarters(food$date)\n\n#plot inspections per month \nlibrary(ggplot2)\nqplot(months(food$date))\n\n# result per weekdays\nggplot(data=food, aes(x=weekdays(date), fill=result)) + geom_bar() \n\nggplot(data=food, aes(months(date))) + geom_histogram() \n\n# modify the last plot to a polar representation\nlast_plot() + coord_polar()\n\n# is the first date later than the second?\nfood$date[1] > food$date[2]\n\n#how many days between the two?\nfood$date[1] - food$date[2]\n\n# print only years\nformat(food$date, \"%Y\")\n# print only years by numbers\nas.numeric(format(food$date, \"%Y\"))\n# list only those dates later than 2010\nfood$date[format(food$date, \"%Y\") > \"2010\"]\n\n\n#posix is a format that combines date and time \nas.POSIXlt(food$issdttm)\ntm <- as.POSIXlt(\"2013-07-24 23:55:26\")\n\n# the units are seconds. substract one hour (1000 sec)\ntm\ntm - 3600\n\n# POSIXlt stores date and time as a list - you can print it via\nunlist(tm)\n\n# and access components\ntm$mon\n\n# years are calculated as difference from 1970 (the beginning of UNIX date)\ntm$year\n\n# these operations can be made more convenient with the lubridate package\n#install.packages(\"lubridate\")\nlibrary(lubridate)\n\n#learn how to use the package functions by reading the vignette\nbrowseVignettes(\"lubridate\")\n\n#this gives us months, days, years as numbers. \nmonth(food$date)\nday(food$date)\nyear(food$date) > 2010\n\n# also correctly resolves unix years\nyear(tm)\n\n# show a histogram only starting the year 2009\nf10 <- food[year(food$date)>2009,]\nggplot(f10,aes(x=date)) + geom_histogram()\n\nhour(food$posix)\n",
+    "created" : 1433290064946.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1568701303",
+    "id" : "7E1F2B59",
+    "lastKnownWriteTime" : 1433285813,
+    "path" : "~/Dropbox/INTDISC_DSSH6302/Rcode/time.R",
+    "project_path" : "time.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

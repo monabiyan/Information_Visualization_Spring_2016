@@ -1,0 +1,16 @@
+{
+    "contents" : "#install.packages(\"colorspace\") \nlibrary(colorspace)           # a package for advanced HCL color spaces in R\nbrowseVignettes(\"colorspace\")\n\ncolors()                  # show all std color names in R\n\npal <- choose_palette()   # create a new palette and store it in the Pal function\n\npal(100)                  # print 100 color values of our palette function\n\npalette()                 # print the current palette\npalette(pal(100))         # set the R default color palette with 100 values of our palette\n\nn <- 12\nrep(1,n)                  # create a vector with n x the value 1 (for demonstration only)\npie(rep(1,n), col=pal(n)) # draw a pie chart with n segments using our palette \n\npie(rep(1,n), col=heat_hcl(n))        # other predefined palettes from the colorspace package\npie(rep(1,n), col=terrain_hcl(n))\n\nblues <- colorRampPalette(c(\"blue\", \"white\"))  # a simple color ramp from white to blue\nfilled.contour(volcano, color = terrain.colors) # a heatmap of a matrix, using the volcano data set and the terrain color palette\n\n#install.packages(\"RColorBrewer\")   # brewer color package for R\ndisplay.brewer.pal(7,\"Accent\")      # use one of the predefined Brewer palettes, display conveniently\nbcols <- brewer.pal(9,\"Set1\")       # use one of the predefined Brewer palettes, store it in the color vector bcols\npie(rep(1,9), col=pal)\n\n\n",
+    "created" : 1433420973426.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2224788214",
+    "id" : "5FD90FDD",
+    "lastKnownWriteTime" : 1433427382,
+    "path" : "C:/Users/melanie.kasparian/Dropbox (NUOEL)/INTDISC_DSSH6302/Rcode/color.R",
+    "project_path" : "color.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

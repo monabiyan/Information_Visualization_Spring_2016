@@ -1,0 +1,18 @@
+{
+    "contents" : "# text analysis with the mallet tool for extracting topic models using Latent Dirichlet Allocation (LDA)\n# for background, code & tutorials go to http://mallet.cs.umass.edu/\n\n#install.packages(\"mallet\")\nlibrary(mallet)\n\n# load our sample text corpus: a selection of citizen complaint messages submitted via smartphone\ncc <- read.csv(\"data/complaints.csv\")\n\n# initiate topic model trainer, with n topics (this value can be tweaked based on result)\nn <- 25\ntopic.model <- MalletLDA(num.topics=n) \n\n## Load document corpus. We could also pass in the filename of a saved instance list file that we build from the command-line tools.\nmallet.instances <- mallet.import(id.array = row.names(cc), text.array = as.character(cc$description), stoplist.file = \"data/stop_311.txt\", token.regexp = \"\\\\p{L}[\\\\p{L}\\\\p{P}]+\\\\p{L}\")\ntopic.model$loadDocuments(mallet.instances)\n\n## Get the vocabulary, and some statistics about word frequencies.\n##  These may be useful in further curating the stopword list.\nvocabulary <- topic.model$getVocabulary()\nword.freqs <- mallet.word.freqs(topic.model)\nword.freqs$term.freq.n <- word.freqs$term.freq/sum(word.freqs$term.freq)\nword.freqs$doc.freq.n <- word.freqs$doc.freq/sum(word.freqs$doc.freq)\n\n# now train the topic models with 200 iterations\ntopic.model$train(500)\n\n## run through a few iterations where we pick the best topic for each token\ntopic.model$maximize(10)\n\n## Get the probability of topics in documents and the probability of words in topics.\n## By default, these functions return raw word counts. Here we want probabilities,\n## so we normalize, and add \"smoothing\" so that nothing has exactly 0 probability.\ndoc.topics <- mallet.doc.topics(topic.model, smoothed=T, normalized=T)\ntopic.words <- mallet.topic.words(topic.model, smoothed=T, normalized=T)\n\n## create a top word list\ntop.words <- data.frame()\nfor (i in 1:nrow(topic.words)) {\n  tmp <- mallet.top.words(topic.model, topic.words[i,], num.top.words = 10)\n  tmp$topic <- i\n  top.words <- rbind( top.words, tmp)\n}\nrm(i);rm(tmp)\n\n#visualize word clouds\ninstall.packages(\"wordcloud\")\nlibrary(wordcloud)\npal <- brewer.pal(4,\"Paired\")\n\n# plot each recognized topic as a wordcloud\n# use back buttons to browse (or uncomment save command to save as pdf)\nfor (i in 1: n) {\n  tmp <- top.words[top.words$topic==i,]\n  wordcloud(tmp$words,freq = tmp$weights,random.order=FALSE, rot.per = 0,colors=pal, scale = c(3,1))\n  text(x=0.5, y=0.1, paste(\"Topic\",i))\n  #quartz.save(paste(\"out/\",i,\".pdf\", sep = \"\"), type = \"pdf\")#, width = 5, height = 4)\n}\n\n",
+    "created" : 1447708837380.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "828496104",
+    "id" : "5792D4C2",
+    "lastKnownWriteTime" : 1447711890,
+    "path" : "/Volumes/Dropbox/INTDISC_DSSH6302/Rcode/M11_text.R",
+    "project_path" : "M11_text.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

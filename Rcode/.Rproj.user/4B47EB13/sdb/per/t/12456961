@@ -1,0 +1,16 @@
+{
+    "contents" : "# default R scatterplot matrix implementation using the Iris data set\npairs(iris)\n\n# interactive javascript scatterplot matrix using the D3 library\n#https://github.com/garthtarr/pairsD3/\ninstall.packages(\"pairsD3\")\nrequire(pairsD3)\npd3 <- pairsD3(iris[,1:4],group=iris[,5])\nsavePairs(pd3, file = 'iris.html')\n\nshinypairs(iris)\n\n# scatterplot matrix using ggplot\ninstall.packages(\"GGally\")\nrequire(GGally)\n\nggpairs(mpg,columns=c(3:5,8:9), colour=\"drv\")\n",
+    "created" : 1433420917656.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "740912894",
+    "id" : "12456961",
+    "lastKnownWriteTime" : 1433011336,
+    "path" : "C:/Users/melanie.kasparian/Dropbox (NUOEL)/INTDISC_DSSH6302/Rcode/scatterplot.R",
+    "project_path" : "scatterplot.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,893 @@
+NAME,TYPE,PRICE,REVIEW_COUNT,STAR,TELL,ADDRESS,ZIPCODE,MEDIAN_SAL,MEAN_SAL,POP,city
+Giacomos Ristorante,Italian,2,1929,3.5,(617) 523-9026,"355 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+The Salty Pig,American (New),2,679,4,(617) 536-6200,"130 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Neptune Oyster,Seafood,3,2498,4,(617) 742-3474,"63 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Locale,Italian,2,122,4.5,(617) 742-9600,"352 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Sams,American (New),2,346,4.5,(617) 295-0191,"60 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Mike & Pattys,Sandwiches,1,753,4,(617) 423-3447,"12 Church St  Boston, MA 02116",2116,80153,136491,19480,Boston
+75 Chestnut,American (New),2,292,4.5,(617) 227-2175,"75 Chestnut St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Jm Curley,American (New),2,414,4,(617) 338-5333,"21 Temple Pl  Boston, MA 02111",2111,31442,93529,4948,Boston
+Row 34,American (New),3,364,4,(617) 553-5900,"383 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+The Gallows,American (New),2,514,4,(617) 425-0200,"1395 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Island Creek Oyster Bar,Seafood,3,1483,3.5,(617) 532-5300,"500 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Saus,Belgian,1,691,4.5,(617) 248-8835,"33 Union St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Piperi Mediterranean Grill,Mediterranean,1,309,4,(617) 227-7471,"One Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Marliave,French,3,866,4.5,(617) 422-0004,"10 Bosworth St  Boston, MA 02108",2108,96033,149809,3324,Boston
+El Pelón Taquería,Mexican,1,704,4,(617) 262-9090,"92 Peterborough St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Avana Sushi,Japanese,1,582,4.5,(617) 818-7782,"42 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Coda,American (New),2,420,4.5,(617) 536-2632,"329 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Row 34,American (New),3,364,4,(617) 553-5900,"383 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+The Parish Cafe,Sandwiches,2,978,4,(617) 247-4777,"361 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+The Daily Catch,Italian,2,812,4,(617) 523-8567,"323 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+The Paramount,Breakfast & Brunch,2,878,3.5,(617) 720-1152,"44 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Wheelhouse,Breakfast & Brunch,1,102,4,(617) 422-0082,"63 Broad St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Saus,Belgian,1,691,4.5,(617) 248-8835,"33 Union St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Toro,Tapas Bars,3,1360,4,(617) 536-4300,"1704 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+The Parish Cafe,Sandwiches,2,978,4,(617) 247-4777,"361 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+El Pelón Taquería,Mexican,1,704,4,(617) 262-9090,"92 Peterborough St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Yankee Lobster Fish Market,Seafood Markets,2,691,4.5,(617) 345-9799,"300 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Zest Mediterranean Grille,Mediterranean,1,66,4,(617) 867-6767,"1076 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Island Creek Oyster Bar,Seafood,3,1483,4.5,(617) 532-5300,"500 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Marliave,French,3,866,4.5,(617) 422-0004,"10 Bosworth St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Kitchen,American (New),3,188,3.5,(617) 695-1250,"560 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Avana Sushi,Japanese,1,582,4,(617) 818-7782,"42 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Silvertone,Bars,2,661,4.5,(617) 338-7887,"69 Bromfield St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Panza,Italian,2,669,4,(617) 557-9248,"326 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Piperi Mediterranean Grill,Mediterranean,1,309,4,(617) 227-7471,"One Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Lincoln Tavern & Restaurant,American (New),2,308,4.5,(617) 765-8636,"425 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Five Horses Tavern South End,American (New),2,151,4,(617) 936-3930,"535 Columbus Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Figs,Pizza,2,509,4,(617) 742-3447,"42 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+The Tip Tap Room,American (New),2,346,4,(857) 350-3344,"138 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Piattini,Italian,2,409,4,(617) 536-2020,"226 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Atlantic Fish Company,Seafood,3,1486,3.5,(617) 267-4000,"761 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Scollay Square,Seafood,2,360,4,(617) 742-4900,"21 Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+La Famiglia Giorgios,Italian,2,593,4,(617) 367-6711,"112 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Gaslight,Modern European,2,1363,4,(617) 422-0224,"560 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Giacomos,Italian,2,699,4,(617) 536-5723,"431 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Cinquecento Roman Trattoria,Italian,3,280,4,(617) 338-9500,"500 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+The Daily Catch,Italian,2,812,4,(617) 523-8567,"323 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Cafe Polonia,Polish,2,271,4,(617) 269-0110,"611 Dorchester Ave  Boston, MA 02127",2127,64285,80697,29457,Boston
+Ward 8,Cocktail Bars,2,176,4.5,(617) 823-4478,"90 N Washington St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Figs,Pizza,2,263,4,(617) 242-2229,"67 Main St  Boston, MA 02129",2129,80223,108709,15195,Boston
+Galleria Umberto,Pizza,1,357,3.5,(617) 227-5709,"289 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Ko Pies At the Shipyard,American (New),2,115,4.5,(617) 418-5234,"256 Marginal St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Tenoch Mexican,Mexican,1,122,4.5,(617) 248-9537,"3 Lewis St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Trophy Room,American (New),2,77,4.5,(617) 482-3450,"26 Chandler St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sam LaGrassas,Sandwiches,2,579,4,(617) 357-6861,"44 Province St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Picco,Ice Cream & Frozen Yogurt,2,782,4.5,(617) 927-0066,"513 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Paulis,Sandwiches,2,334,4,(857) 284-7064,"65 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Boston Chowda Co.,Seafood,2,417,4.5,(617) 742-4441,"1 Faneuil Hall Market Pl  Boston, MA 02109",2109,92310,129015,3278,Boston
+Grass Roots Cafe,Sandwiches,1,70,4,(617) 951-2124,"101 Arch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Mulligans,Sandwiches,1,72,3.5,(617) 248-1520,"83 Canal St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Zest Mediterranean Grille,Mediterranean,1,66,4.5,(617) 867-6767,"1076 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Orinoco,Latin American,2,416,4.5,(617) 369-7075,"477 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Al Dente Restaurant,Italian,2,574,4,(617) 523-0990,"109 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+The Beehive,Jazz & Blues,2,1347,4,(617) 423-0069,"541 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Koy,Korean,2,139,3.5,(857) 991-1483,"16 North St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Mei Mei Street Kitchen,Food Trucks,1,148,4,(857) 250-4959,"506 Park Dr  Boston, MA 02215",2215,30726,51218,21896,Boston
+Grass Roots Cafe,Sandwiches,1,70,4.5,(617) 951-2124,"101 Arch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Tenoch Mexican,Mexican,1,122,4.5,(617) 248-9537,"3 Lewis St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Coppa,Italian,3,489,4.5,(617) 391-0902,"253 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Seoul,Korean,2,119,3.5,(617) 973-6680,"156 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Shojo,Chinese,2,306,3.5,(617) 423-7888,"9A Tyler St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Roast Beast,Sandwiches,1,323,4,(617) 877-8690,"1080 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Hillstone Restaurant,American (New),3,450,4.5,(617) 573-9777,"60 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Trophy Room,American (New),2,77,4,(617) 482-3450,"26 Chandler St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Boston Burger Company,Burgers,2,327,4,(857) 233-4560,"1100 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Lucy Ethiopian Cafe,Ethiopian,2,223,4,(617) 536-0415,"334 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Granary Tavern,American (New),2,281,4,(617) 449-7110,"170 Milk St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Corner Tavern,Bars,2,182,3.5,(617) 262-5555,"421 Marlborough St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Q Restaurant,Chinese,2,430,4,(857) 350-3968,"660 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Orinoco,Latin American,2,416,3.5,(617) 369-7075,"477 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Al Dente Restaurant,Italian,2,574,4,(617) 523-0990,"109 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Maná Escondido Café,Spanish,1,25,4,(617) 266-0900,"68 Aguadilla St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Mirisola’s,Italian,1,40,4.5,(617) 269-9701,"200 L St  Boston, MA 02127",2127,64285,80697,29457,Boston
+The Elephant Walk,Cambodian,2,23,4.5,(617) 247-1500,"1415 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Sofá Café,Cafes,1,59,4.5,(857) 250-2381,"217 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Roast Beast,Sandwiches,1,323,4,(617) 877-8690,"1080 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Shojo,Chinese,2,306,4.5,(617) 423-7888,"9A Tyler St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Shawarma Falafel,Middle Eastern,1,136,4,(857) 265-3017,"26 Province St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Hillstone Restaurant,American (New),3,450,4.5,(617) 573-9777,"60 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Granary Tavern,American (New),2,281,3.5,(617) 449-7110,"170 Milk St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Lucy Ethiopian Cafe,Ethiopian,2,223,3.5,(617) 536-0415,"334 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Andres Cafe,American (Traditional),1,93,4,(617) 267-9599,"811 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Metropolis,Wine Bars,2,339,4,(617) 247-2931,"584 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Woodys Grill and Tap,Bars,2,202,4,(617) 375-9663,"58 Hemenway St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Cafe Gigu,Cafes,2,24,4,(617) 561-4448,"102 Meridian St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Paraiso Restaurant,Spanish,1,30,4.5,(617) 265-7067,"750 Dudley St  Boston, MA 02125",2125,44266,57482,32937,Boston
+The Glenville Stops,American (New),2,131,4.5,(617) 903-3638,"87 Glenville Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+Corner Tavern,Bars,2,182,4.5,(617) 262-5555,"421 Marlborough St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Victorias Diner,Diners,2,269,4,(617) 442-5965,"1024 Massachusetts Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Q Restaurant,Chinese,2,430,3.5,(857) 350-3968,"660 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Intermission Tavern,Bars,2,257,4,(617) 451-5997,"228 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Franklin Café,Lounges,2,427,3.5,(617) 350-0010,"278 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Santarpios Pizza,Pizza,2,698,4,(617) 567-9871,"111 Chelsea St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Bonapita,Mediterranean,1,83,4,(857) 350-4606,"49 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Bukowski Tavern,Pubs,2,491,4.5,(617) 437-9999,"50 Dalton St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Abby Lane Food & Spirits,American (New),2,221,4,(617) 451-2229,"255 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Clay Pot Cafe,Cantonese,1,44,3.5,(617) 357-5262,"74 Kneeland St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Rinos Place,Italian,2,470,4,(617) 567-7412,"258 Saratoga St  Boston, MA 02128",2128,42613,55095,38185,Boston
+The Lower Depths,Pubs,2,370,4,(617) 266-6662,"476 Commonwealth Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Pad Thai Cafe,Thai,1,280,3.5,(617) 247-3399,"1116 Boylston St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Maurizios,Italian,2,204,4,(617) 367-1123,"364 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Flour Bakery + Café,American (New),2,403,4,(617) 437-7700,"131 Clarendon St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Winsor Dim Sum Café,Dim Sum,2,628,4,(617) 338-1688,"10 Tyler St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Gyro City,Greek,1,124,3.5,(617) 266-4976,"88 Peterborough St  Boston, MA 02215",2215,30726,51218,21896,Boston
+The Glenville Stops,American (New),2,131,4.5,(617) 903-3638,"87 Glenville Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+Anchovies,Italian,2,270,4.5,(617) 266-5088,"433 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Banh Mi House,Bubble Tea,1,75,4,(617) 956-4039,"48 Winter St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Gourmet Dumpling House,Chinese,2,1022,4.5,(617) 338-6223,"52 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Cafe Gigu,Cafes,2,24,3.5,(617) 561-4448,"102 Meridian St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Woodys Grill and Tap,Bars,2,202,3.5,(617) 375-9663,"58 Hemenway St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Tasty Burger,Burgers,1,660,4,(617) 425-4444,"1301 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Lolita Cocina & Tequila Bar,Mexican,2,795,4,(617) 369-5609,"271 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Legal Crossing,Seafood,3,149,4,(617) 692-8888,"558 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Banh Mi House,Bubble Tea,1,75,4,(617) 956-4039,"48 Winter St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Limoncello Ristorante,Italian,2,266,4.5,(617) 523-4480,"190 North St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Sofá Café,Cafes,1,59,4,(857) 250-2381,"217 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Clover,Food Trucks,1,182,4,,"Dewey Sq  Boston, MA 02111",2111,31442,93529,4948,Boston
+Taqueria Jalisco,Mexican,1,133,4,(617) 567-6367,"291 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Mirisolas,Italian,1,40,4.5,(617) 269-9701,"200 L St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Pad Thai Cafe,Thai,1,280,3.5,(617) 247-3399,"1116 Boylston St  Boston, MA 02115",2115,30282,54356,25637,Boston
+OTTO,Pizza,1,108,4,(617) 232-0447,"888 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Sweetgreen,Fruits & Veggies,2,54,4,(857) 263-7916,"372 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+Thinking Cup,Coffee & Tea,2,214,4.5,(617) 247-3333,"85 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+The Paramount,Breakfast & Brunch,2,147,4.5,(617) 269-9999,"667 E Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+My Cousins Place,Cafes,1,41,4,(857) 350-3029,"396 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Toscano Restaurant,Italian,3,305,4,(617) 723-4090,"47 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Anchovies,Italian,2,270,4,(617) 266-5088,"433 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Italian Express Pizzeria,Italian,2,185,4,(617) 561-0038,"336 Sumner St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Sweetgreen,Salad,2,292,4.5,(617) 936-3464,"659 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Menton,French,4,278,3.5,(617) 737-0099,"354 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+Dinos,Italian,2,211,4.5,(617) 227-1991,"141 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Flour Bakery + Café,American (New),2,403,4,(617) 437-7700,"131 Clarendon St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Lolita Cocina & Tequila Bar,Mexican,2,795,4,(617) 369-5609,"271 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Teranga,Bars,2,204,4,(617) 266-0003,"1746 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Taqueria Jalisco,Mexican,1,133,4,(617) 567-6367,"291 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Gather,American (New),2,152,4.5,(617) 982-7220,"75 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Tasty Burger,Burgers,1,660,3.5,(617) 425-4444,"1301 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Citizen Public House & Oyster Bar,Gastropubs,2,414,4,(617) 450-9000,"1310 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Beantown Pho & Grill,Vietnamese,2,90,3.5,(857) 263-8440,"272 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Taqueria Jalisco,Mexican,1,133,3.5,(617) 567-6367,"291 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Figaros,Delis,1,77,4.5,(617) 426-2121,"105 beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Beantown Pho & Grill,Vietnamese,2,90,4,(857) 263-8440,"272 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Tasty Burger,Burgers,1,660,4,(617) 425-4444,"1301 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+South Street Diner,Diners,1,380,4,(617) 350-0028,"178 Kneeland St  Boston, MA 02111",2111,31442,93529,4948,Boston
+JJ Foleys,Pubs,2,145,3.5,(617) 728-9101,"117 E Berkeley St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Teatro,Italian,3,367,4,(617) 778-6841,"177 Tremont St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Citizen Public House & Oyster Bar,Gastropubs,2,414,4,(617) 450-9000,"1310 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Cafe Rustico,Italian,1,99,3.5,(617) 742-8770,"85 Canal St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Limoncello Ristorante,Italian,2,266,4,(617) 523-4480,"190 North St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Luckys Lounge,Lounges,2,496,3.5,(617) 357-5825,"355 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+Mamas Place,Greek,1,103,3.5,(617) 566-1300,"764 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Clover,Food Trucks,1,182,3.5,,"Dewey Sq  Boston, MA 02111",2111,31442,93529,4948,Boston
+Sushi Station,Japanese,2,114,4,(617) 738-0888,"1562 Tremont St  Boston, MA 02120",2120,28794,41569,11553,Boston
+Genki Ya,Sushi Bars,2,207,4,(617) 338-8686,"232 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Billys Sub Shop,Diners,1,98,4,(617) 426-1822,"57 Berkeley St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Cha Cha Cha Taqueria,Mexican,1,39,4.5,(617) 785-3516,"145 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Anthonys Cafe,Italian,1,72,4,(617) 742-2987,"252 Commercial St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Mr. Dooleys,Irish,2,221,4,(617) 338-5656,"77 Broad St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Casa Razdora,Italian,1,209,4,(617) 338-6700,"115 Water St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Mama’s Place,Greek,1,103,3.5,(617) 566-1300,"764 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+JJ Foley’s,Pubs,2,145,3.5,(617) 728-9101,"117 E Berkeley St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Masa,American (New),2,847,4,(617) 338-8884,"439 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Brown Sugar Cafe,Thai,2,670,3.5,(617) 787-4242,"1033 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Pellino’s Ristorante,Bars,2,112,4,(617) 227-7300,"2 Prince St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Caffé Vittoria,Coffee & Tea,1,488,4,(617) 227-7606,"296 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Les Zygomates,French,3,299,4,(866) 813-3772,"129 South St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Douzo,Sushi Bars,3,722,4,(617) 859-8886,"131 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Las Ventas,Spanish,1,73,4,(617) 266-0905,"700 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Rod Dee Thai 2,Thai,1,205,4,(617) 859-0969,"94 Peterborough St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Zo,Greek,1,64,3.5,,"92 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Delux Café,Bars,2,253,4.5,(617) 338-5258,"100 Chandler St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sportello,Italian,3,564,4,(617) 737-1234,"348 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+Scampo,Italian,3,342,4,(617) 536-2100,"215 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Dirty Water Dough Company,Pizza,1,160,4,(617) 262-0090,"222 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Las Ventas,Spanish,1,73,4,(617) 266-0905,"700 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Back Bay Sandwich,Sandwiches,1,55,4,(617) 451-1561,"31 St James Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+B & G Oysters,Seafood,3,694,4,(617) 423-0550,"550 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Caffé Vittoria,Coffee & Tea,1,488,4,(617) 227-7606,"296 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+The Merchant,American (New),2,142,4,(617) 482-6060,"60 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Uburger,Burgers,1,371,3.5,(617) 536-0448,"636 Beacon St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Thinking Cup,Coffee & Tea,2,214,4,(617) 247-3333,"85 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+The Merchant,American (New),2,142,4.5,(617) 482-6060,"60 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Nico Ristorante,Italian,3,258,3.5,(617) 742-0404,"417 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Les Zygomates,French,3,299,4,(866) 813-3772,"129 South St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Mangia Mangia,Italian,1,24,4,(617) 523-1768,"147 Endicott St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Bistro Du Midi,French,3,390,4,(617) 426-7878,"272 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Mi Pueblito Restaurant,Mexican,2,88,4,(617) 569-3787,"333 Border St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Brown Sugar Cafe,Thai,2,670,4.5,(617) 787-4242,"1033 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+L’Espalier,French,4,627,4,(617) 262-3023,"774 Boylston St  Boston, MA 02199",2199,68080,149005,1004,Boston
+Fogo de Chão Brazilian Steakhouse,Brazilian,3,355,3.5,(617) 585-6300,"200 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Fin’s Sushi and Grill,Sushi Bars,2,256,4,(617) 267-8888,"636 Beacon St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Sonsie,American (New),2,783,4,(617) 351-2500,"327 Newbury St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Carmelina’s,Italian,2,268,3.5,(617) 742-0020,"307 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Hong Kong Eatery,Cantonese,1,283,4,(617) 423-0838,"79 Harrison Ave  Boston, MA 02111",2111,31442,93529,4948,Boston
+Gather,American (New),2,152,3.5,(617) 982-7220,"75 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Cafe Fleuri,Breakfast & Brunch,3,195,3.5,(617) 451-1900,"250 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+City Bar,Lounges,3,225,4,(617) 536-5300,"61 Exeter St  Boston, MA 02199",2199,68080,149005,1004,Boston
+Falafel King,Falafel,1,294,4,(617) 338-8355,"48 Winter St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Wai Wai Restaurant,Chinese,1,93,4,(617) 338-9833,"26 Oxford St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Tavern In The Square,Sports Bars,2,48,3.5,(617) 263-0404,"120 Beverly St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Bonapita,Mediterranean,1,83,3.5,(857) 350-4606,"49 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Lucca Back Bay,Italian,3,197,4.5,(617) 247-2400,"116 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+South End Buttery,Bakeries,2,588,4,(617) 482-1015,"314 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Clay Pot Cafe,Cantonese,1,44,3.5,(617) 357-5262,"74 Kneeland St  Boston, MA 02111",2111,31442,93529,4948,Boston
+The Merchant,American (New),2,142,4,(617) 482-6060,"60 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Mangia Mangia,Italian,1,24,3.5,(617) 523-1768,"147 Endicott St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Pedro’s Tacos,Mexican,1,164,4,(617) 482-8822,"55 Bromfield St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Tavern Road,American (New),3,180,4,(617) 790-0808,"343 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+Hong Kong Eatery,Cantonese,1,283,3.5,(617) 423-0838,"79 Harrison Ave  Boston, MA 02111",2111,31442,93529,4948,Boston
+Sonsie,American (New),2,783,3.5,(617) 351-2500,"327 Newbury St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Davios,Italian,3,287,3.5,(617) 357-4810,"75 Arlington St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Cafe Fleuri,Breakfast & Brunch,3,195,4,(617) 451-1900,"250 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Legal Sea Foods,Seafood,3,641,4,(617) 742-5300,"255 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Rustic Kitchen,Italian,2,266,3.5,(617) 423-5700,"210 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Café de Lulu,Chinese,1,148,3.5,(617) 391-0888,"42 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Maggianos Little Italy,Italian,2,529,3.5,(617) 542-3456,"4 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+The Five Seventy Market,Grocery,2,72,3.5,(857) 362-7525,"570 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+The Boston Sail Loft,Bars,2,248,4,(617) 227-7280,"80 Atlantic Ave  Boston, MA 02110",2110,102972,135093,1606,Boston
+Grill 23 & Bar,Steakhouses,4,640,3.5,(617) 542-2255,"161 Berkeley St  Boston, MA 02116",2116,80153,136491,19480,Boston
+The Pour House,Bars,1,831,3.5,(617) 236-1767,"907 Boylston St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Amrheins,American (New),2,276,3.5,(617) 268-6189,"80 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Strega Waterfront,Italian,3,301,3.5,(617) 345-3992,"56 Northern Ave On GPS  Boston, MA 02210",2210,61807,86291,413,Boston
+Back Bay Harrys,American (New),2,107,5,(617) 424-6711,"142 Berkeley St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Stephanies On Newbury,American (New),3,905,3.5,(617) 236-0990,"190 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sullivans,Fast Food,1,178,3.5,(617) 268-5685,"2080 Day Blvd  Boston, MA 02127",2127,64285,80697,29457,Boston
+Wink & Nod,Cocktail Bars,3,159,4,(617) 482-0117,"3 Appleton St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Fins Sushi and Grill,Sushi Bars,2,256,3.5,(617) 267-8888,"636 Beacon St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Pedros Tacos,Mexican,1,164,4,(617) 482-8822,"55 Bromfield St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Penang,Malaysian,2,605,3.5,(617) 451-6373,"685 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Boston Chops,Bars,3,231,3.5,(617) 227-5011,"1375 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Lucca,Italian,3,295,4,(617) 742-9200,"226 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+"Pastoral - Artisan Pizza, Kitchen & Bar",Pizza,2,185,3.5,(617) 345-0005,"345 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+Dumpling Cafe,Taiwanese,2,430,3.5,(617) 338-8858,"695 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Harvard Gardens,Bars,2,267,3.5,(617) 523-2727,"316 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+City Table,Bars,2,162,3.5,(617) 933-4800,"61 Exeter St  Boston, MA 02116",2116,80153,136491,19480,Boston
+South End Buttery,Bakeries,2,588,3.5,(617) 482-1015,"314 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Parish Cafe,American (New),2,200,3.5,(617) 391-0501,"493 Massachusetts Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Zócalo Mexican Bistro & Tequila Bar,Mexican,2,395,3.5,(617) 456-7849,"35 Stanhope St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Boston Shawarma,Lebanese,1,172,3.5,(617) 670-0460,"315 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Hong Kong Eatery,Cantonese,1,283,4,(617) 423-0838,"79 Harrison Ave  Boston, MA 02111",2111,31442,93529,4948,Boston
+Parla,Italian,2,95,3.5,(617) 367-2824,"230 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Seapoint Restaurant,Bars,2,27,4,(617) 268-1476,"367 E 8th St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Cheeseboy,American (Traditional),1,60,4,(617) 423-0481,"280 Washington St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Mul’s Diner,Diners,1,178,4,(617) 268-5748,"75 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Lucca Back Bay,Italian,3,197,4,(617) 247-2400,"116 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sonsie,American (New),2,783,4,(617) 351-2500,"327 Newbury St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Cafe Fleuri,Breakfast & Brunch,3,195,4,(617) 451-1900,"250 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Dumpling Cafe,Taiwanese,2,430,3.5,(617) 338-8858,"695 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Penang,Malaysian,2,605,3.5,(617) 451-6373,"685 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Doughboy Donuts & Deli,Donuts,1,82,3.5,(617) 269-8741,"220 Dorchester Ave  Boston, MA 02127",2127,64285,80697,29457,Boston
+Aquitaine,French,3,667,4,(617) 424-8577,"569 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Cafe G,American (New),2,51,4,(617) 566-1088,"25 Evans Way  Boston, MA 02115",2115,30282,54356,25637,Boston
+Erbaluce,Italian,3,265,4,(617) 426-6969,"69 Church St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Bogie’s Place,Steakhouses,3,31,4,(617) 338-5333,"25 Temple Pl  Boston, MA 02111",2111,31442,93529,4948,Boston
+Temptations Cafe,Coffee & Tea,1,95,4.5,(617) 266-6080,"313 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+The Wholy Grain,Coffee & Tea,1,109,4,(857) 277-1531,"275 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Tavern In the Square,American (New),2,22,4,(857) 233-4717,"640 Atlantic Ave  Boston, MA 02111",2111,31442,93529,4948,Boston
+Cafe G,American (New),2,51,4.5,(617) 566-1088,"25 Evans Way  Boston, MA 02115",2115,30282,54356,25637,Boston
+Boston Kebab House,Turkish,1,167,4,(617) 227-6900,"7 Liberty Sq  Boston, MA 02109",2109,92310,129015,3278,Boston
+The Barking Crab,Seafood,2,1326,4,(617) 426-2722,"88 Sleeper St  Boston, MA 02210",2210,61807,86291,413,Boston
+Boloco,Mexican,1,131,3,(617) 778-6772,"2 Park Plz  Boston, MA 02116",2116,80153,136491,19480,Boston
+Rondos Sub Shop,Sandwiches,1,36,4,(617) 269-0274,"134 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Grasshopper Cafe,Sandwiches,2,104,4.5,(617) 242-0000,"229 Bunker Hill St  Boston, MA 02129",2129,80223,108709,15195,Boston
+Legal Sea Foods,Seafood,3,641,4,(617) 742-5300,"255 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Battery Park Bar & Lounge,American (Traditional),2,158,3.5,(617) 350-7275,"33 Batterymarch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Boston Kitchen Pizza,Pizza,1,119,3.5,(617) 482-0085,"1 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Legal Sea Foods - Logan Airport Terminal B,Seafood,2,187,3.5,(617) 568-2811,"1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Sami’s Wrap N Roll,Food Stands,1,34,4,(857) 302-3940,"107 Ave Louis Pasteur  Boston, MA 02115",2115,30282,54356,25637,Boston
+Capital One 360 Cafe,Cafes,1,26,4.5,(617) 236-0585,"799 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Penguin Pizza,Pizza,2,392,4,(617) 277-9200,"735 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+AK’s Takeout & Delivery,Pizza,1,87,4,(617) 269-3500,"309 D St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Maggiano’s Little Italy,Italian,2,529,4,(617) 542-3456,"4 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Grill 23 & Bar,Steakhouses,4,640,3.5,(617) 542-2255,"161 Berkeley St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Lulu’s Allston,American (New),2,136,4,(617) 787-1117,"421 Cambridge St  Boston, MA 02134",2134,33863,47915,19641,Boston
+Lucca,Italian,3,295,4,(617) 742-9200,"226 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Flame Cafe,Mediterranean,1,39,3.5,(617) 615-9792,"2 Oliver St  Boston, MA 02109",2109,92310,129015,3278,Boston
+The Sevens Ale House,Pubs,2,167,3.5,(617) 523-9074,"77 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Back Bay Social Club,American (New),2,391,3.5,(617) 247-3200,"867 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Chicken Lous,Fast Food,1,84,3.5,(617) 859-7017,"50 Forsyth St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Style Cafe,Cafes,1,31,4,(617) 241-7300,"197 8th St  Boston, MA 02129",2129,80223,108709,15195,Boston
+Baltic Deli & Cafe,Delis,1,30,4,(617) 268-2435,"632 Dorchester Ave  Boston, MA 02127",2127,64285,80697,29457,Boston
+Wink & Nod,Cocktail Bars,3,159,4.5,(617) 482-0117,"3 Appleton St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Estragon,Tapas Bars,2,329,3.5,(617) 266-0443,"700 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+The Best Little Restaurant,Chinese,2,93,4,(617) 338-4988,"13A Hudson St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Clover,Food Stands,1,65,4,,"138 Tremont St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Post 390,Bars,3,446,4,(617) 399-0015,"406 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Papagayo,Mexican,2,427,3.5,(617) 423-1000,"283 Summer Street  Boston, MA 02210",2210,61807,86291,413,Boston
+Saraceno,Italian,2,264,3.5,(617) 227-5353,"286 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Dumpling Cafe,Taiwanese,2,430,3.5,(617) 338-8858,"695 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+City Bar,Lounges,3,225,3.5,(617) 536-5300,"61 Exeter St  Boston, MA 02199",2199,68080,149005,1004,Boston
+Penang,Malaysian,2,605,4,(617) 451-6373,"685 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Taco Party,Food Trucks,1,41,3.5,,"  Boston, MA 02116",2116,80153,136491,19480,Boston
+Angela’s Cafe,Mexican,2,234,4.5,(617) 567-4972,"131 Lexington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Hidyan Café,Ice Cream & Frozen Yogurt,1,87,4,(617) 437-0966,"80 Kilmarnock St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Thaitation,Thai,2,181,4,(617) 585-9909,"129 Jersey St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Roxy’s Gourmet Grilled Cheese,Sandwiches,1,224,4,(617) 202-5864,"  Boston, MA 02118",2118,51368,82360,22527,Boston
+Clover,Food Stands,1,65,3.5,,"138 Tremont St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Corner Cafe,Dive Bars,1,46,4,(617) 523-8997,"87 Prince St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Regina Pizzeria,Pizza,1,37,4,(617) 266-9210,"1330 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+The Sevens Ale House,Pubs,2,167,4,(617) 523-9074,"77 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Ichiban Yakitori Sushi,Korean,2,55,3.5,(617) 236-7907,"14a Westland Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Estragon,Tapas Bars,2,329,3.5,(617) 266-0443,"700 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Piccolo Nido,Italian,2,73,4,(617) 742-4272,"247 N St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Zócalo Mexican Bistro & Tequila Bar,Mexican,2,395,4,(617) 456-7849,"35 Stanhope St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Carrie Nation Restaurant & Cocktail Club,American (Traditional),2,176,3.5,(617) 227-3100,"11 Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Hidden Kitchen,Delis,1,21,3.5,(617) 426-1544,"535 Albany St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Boston News Cafe,Cafes,1,17,3.5,(617) 423-1149,"80 Arch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Union Oyster House,Seafood,3,1333,4.5,(617) 227-2750,"41 Union St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Oliver’s Street Cafe,Italian,1,21,3,(617) 330-5355,"260 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Sullivan’s,Fast Food,1,178,4,(617) 268-5685,"2080 Day Blvd  Boston, MA 02127",2127,64285,80697,29457,Boston
+Trident Booksellers & Café,Bookstores,2,1344,4,(617) 267-8688,"338 Newbury St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Legal Sea Foods,Seafood,3,371,3.5,(617) 426-4444,"26 Park Plz  Boston, MA 02116",2116,80153,136491,19480,Boston
+Cheeseboy,American (Traditional),1,60,3.5,(617) 423-0481,"280 Washington St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Pita Thyme,Lebanese,1,67,4,(617) 742-7482,"102 Water St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Bricco,Italian,3,446,4.5,(617) 248-6800,"241 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Pho Pasteur,Vietnamese,1,730,4,(617) 482-7467,"682 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Red Lantern,Asian Fusion,3,423,3.5,(617) 262-3900,"39 Stanhope St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Pita Thyme,Lebanese,1,67,3.5,(617) 742-7482,"102 Water St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Mela,Indian,2,431,4.5,(617) 859-4805,"578 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Viva Burrito,Mexican,1,178,3.5,(617) 523-6390,"66 Staniford St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Erbaluce,Italian,3,265,4,(617) 426-6969,"69 Church St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Chef Chang’s on Back Bay,Szechuan,2,39,4,(617) 236-1888,"30 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Back Bay Social Club,American (New),2,391,4,(617) 247-3200,"867 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Falafel King,Middle Eastern,1,120,3.5,(617) 227-6400,"260 Washington St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Boloco,American (New),1,99,4,(617) 357-9727,"133 Federal St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Crave: Mad For Chicken,Japanese,2,184,4,(617) 338-0188,"75 Kneeland St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Joes American Bar & Grill,American (Traditional),2,547,3.5,(617) 536-4200,"181 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Ichiban Yakitori Sushi,Korean,2,55,3.5,(617) 236-7907,"14a Westland Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Wow Barbecue,Food Trucks,1,50,3.5,(508) 826-3192,"2 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Ali Baba,Turkish,2,42,4,(857) 302-3938,"145 E Berkeley St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Bricco,Italian,3,446,4,(617) 248-6800,"241 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Pho Pasteur,Vietnamese,1,730,4,(617) 482-7467,"682 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Pho & I,Thai,2,217,3.5,(617) 262-0011,"267 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Lorettas Last Call,Southern,2,60,3.5,(617) 421-9595,"1 Lansdowne St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Marios Restaurant,Italian,2,55,3.5,(617) 567-8608,"347 Chelsea St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Uptown Cafe,Italian,1,59,4,(617) 227-1181,"120 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Carmellas Market,Cheese Shops,1,11,3.5,(617) 567-6373,"86 Cottage St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Olivers Street Cafe,Italian,1,21,4.5,(617) 330-5355,"260 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Ethel and Andys Sandwich Shop,Sandwiches,1,9,4,(617) 268-3027,"134 K St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Bel Ari,Italian,2,40,5,(877) 714-5711,"107 South St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Pasta Beach,Italian,2,145,4,(617) 439-6900,"30 Rowes Wharf  Boston, MA 02110",2110,102972,135093,1606,Boston
+Church,American (New),2,321,3.5,(617) 236-7600,"69 Kilmarnock St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Savvor Restaurant and Lounge,Lounges,2,40,3.5,(857) 250-2165,"180 Lincoln St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Boston Beer Works,Pubs,2,340,3.5,(617) 896-2337,"112 Canal St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Emmets Irish Pub & Restaurant,Pubs,2,166,3.5,(617) 742-8565,"6 Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+MAST,Pizza,3,73,3.5,(617) 936-3800,"45 Province St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Pita,Mediterranean,1,70,3.5,(857) 263-8390,"197A Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+The Mission Bar & Grill,Bars,2,223,4,(617) 566-1244,"724 Huntington Ave  Boston, MA 02120",2120,28794,41569,11553,Boston
+Jacob Wirth,German,2,705,3.5,(617) 356-8390,"31 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Wow Barbecue,Food Trucks,1,50,3.5,(508) 826-3192,"2 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Viga Italian Eatery and Caterer,Italian,1,77,4,(617) 482-1113,"291 Devonshire St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Papa Razzi,Italian,2,327,4,(617) 536-9200,"159 Newbury Street  Boston, MA 02116",2116,80153,136491,19480,Boston
+UBurger,Burgers,1,127,3.5,(617) 487-4855,"1022 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Legal Sea Foods,Seafood,3,371,4,(617) 426-4444,"26 Park Plz  Boston, MA 02116",2116,80153,136491,19480,Boston
+Bricco,Italian,3,446,3.5,(617) 248-6800,"241 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Artu,Italian,2,134,4,(617) 227-9023,"89 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Boloco Atlantic Wharf,Mexican,1,32,3.5,(857) 284-7488,"284 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+Mooo....,Steakhouses,4,477,4,(617) 670-2515,"15 Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Patisserie on Newbury,Desserts,1,53,4,(617) 670-6040,"257 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Cafe de Boston,Buffets,1,108,4,(617) 482-1006,"75 Federal St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Joes American Bar & Grill,American (Traditional),2,547,4,(617) 536-4200,"181 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+South Boston Lithuanian Club,Polish,1,13,3.5,(617) 268-9058,"368 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Chicken & Rice Guys - Catering & Food Trucks,Chicken Wings,1,238,4.5,(617) 903-8538,"  Boston, MA 02116",2116,80153,136491,19480,Boston
+Thorntons Fenway Grill,American (Traditional),2,150,4,(617) 421-0104,"100 Peterborough St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Pho Pasteur,Vietnamese,1,730,3.5,(617) 482-7467,"682 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Mehak,Indian,2,98,3.5,(617) 567-1900,"329 Sumner St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Oliveiras Restaurant East Boston,Brazilian,2,64,3.5,(617) 561-7277,"297 Chelsea St  Boston, MA 02128",2128,42613,55095,38185,Boston
+D’Guru Restaurant,Indian,1,84,4,(617) 319-4392,"187 Devonshire St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Kelley Square Pub,Pubs,2,67,4,(617) 567-4627,"84 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+El Centro,Mexican,2,200,4,(617) 262-5708,"472 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Legal Sea Foods - Logan Airport Terminal C,Seafood,2,206,3.5,(617) 568-2800,"1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Thornton’s,Breakfast & Brunch,1,225,3.5,(617) 267-6336,"150 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Flame Cafe,Mediterranean,1,39,3.5,(617) 615-9792,"2 Oliver St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Chau Chow City,Dim Sum,2,308,4.5,(617) 338-8158,"83 Essex St  Boston, MA 02111",2111,31442,93529,4948,Boston
+New Saigon Sandwich,Delis,1,270,3.5,(617) 542-6296,"696 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Five Guys Burgers and Fries,Burgers,2,31,4,(617) 572-2074,"263 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Sunset Cantina,Mexican,2,401,3.5,(617) 731-8646,"916 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+El Centro,Mexican,2,200,3.5,(617) 262-5708,"472 Shawmut Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Ashur Restaurant,Halal,2,18,3.5,(617) 427-0599,"291 Roxbury St  Boston, MA 02119",2119,36316,47419,23537,Boston
+Royal Roast Beef & Seafood,Seafood,1,65,4,(617) 567-7779,"752 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Crush Pizza,Pizza,2,69,4,(857) 350-4222,"107 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Cobblestone,American (Traditional),1,46,4,(857) 263-8057,"227 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Bon Me,Vietnamese,1,190,3.5,(617) 945-2615,"602 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Render Coffee,Cafes,1,255,4,(617) 262-4142,"563 Columbus Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Union Oyster House,Seafood,3,1333,4.5,(617) 227-2750,"41 Union St  Boston, MA 02108",2108,96033,149809,3324,Boston
+The Black Rose,Pubs,2,362,3,(617) 742-2286,"160 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Render Coffee,Cafes,1,255,3.5,(617) 262-4142,"563 Columbus Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Thornton’s,Breakfast & Brunch,1,225,4.5,(617) 267-6336,"150 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Aria Trattoria,Italian,3,43,3.5,(617) 742-1276,"253 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Taqueria Cancun,Mexican,2,50,4,(617) 567-4449,"192 Sumner St  Boston, MA 02128",2128,42613,55095,38185,Boston
+The Black Rose,Pubs,2,362,4,(617) 742-2286,"160 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Sakanaya,Seafood,2,73,3.5,(617) 254-0009,"75 Linden St  Boston, MA 02134",2134,33863,47915,19641,Boston
+Falafel King,Falafel,1,29,4,(617) 482-2223,"62 Summer St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Sultan’s Kitchen,Middle Eastern,1,125,4,(617) 570-9009,"116 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Last Hurrah,Bars,2,115,4,(617) 305-1888,"60 School St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Union Oyster House,Seafood,3,1333,3.5,(617) 227-2750,"41 Union St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Earl of Sandwich,Sandwiches,1,53,3.5,(617) 426-1395,"1B Charles Street  Boston, MA 02114",2114,69809,110095,11170,Boston
+Shabumaru,Japanese,2,26,3.5,(617) 437-8888,"10 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Symphony Sushi,Japanese,2,245,3.5,(617) 262-3888,"45 Gainsborough St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Scullers Jazz Club,Jazz & Blues,3,53,3.5,(617) 562-4111,"400 Soldiers Rd  Boston, MA 02134",2134,33863,47915,19641,Boston
+New Saigon Sandwich,Delis,1,270,4,(617) 542-6296,"696 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Chau Chow City,Dim Sum,2,308,4,(617) 338-8158,"83 Essex St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Appleton Cafe,Bakeries,1,134,3.5,(617) 859-8222,"123 Appleton St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Trattoria Di Monica,Italian,3,293,3.5,(617) 720-5472,"67 Prince St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Sepal,Middle Eastern,1,38,4,(617) 621-8666,"350 Longwood Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Legal Test Kitchen,American (New),2,486,3.5,(617) 330-7430,"225 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Tapeo,Tapas Bars,2,624,3.5,(617) 267-4799,"266 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Trident Booksellers & Café,Bookstores,2,1344,3.5,(617) 267-8688,"338 Newbury St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Rock Bottom Restaurant,American (Traditional),2,374,3.5,(617) 742-2739,"115 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Legal Sea Foods - Logan Airport Terminal C,Seafood,2,206,3,(617) 568-2800,"1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Slate Bar & Grill,American (Traditional),2,76,3.5,(857) 263-7372,"109 High St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Cafe Hemshin,Cafes,1,61,3.5,(617) 227-0505,"8 City Hall Ave  Boston, MA 02108",2108,96033,149809,3324,Boston
+Bon Me,Vietnamese,1,28,4.5,(617) 945-9804,"185 Kneeland St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Thai Basil,Thai,2,295,4,(617) 578-0089,"132 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Summer Shack,Seafood,2,395,3.5,(617) 867-9955,"50 Dalton St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Ristorante Euno,Italian,3,128,3.5,(617) 573-9406,"119 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Chutneys,Indian,1,26,3.5,(857) 263-8887,"173 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Umai,Japanese,2,120,4,(617) 262-2228,"224 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Waterfront Cafe,American (Traditional),2,79,3.5,(617) 523-4055,"450 Commercial St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Oppa Sushi,Sushi Bars,2,32,3.5,(617) 202-3808,"185 Harvard Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+BarLola Tapas Lounge,Tapas Bars,2,291,4,(617) 266-1122,"160 Commonwealth Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Cantina Italiana,Italian,2,248,4.5,(617) 723-4577,"346 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Back Deck,Burgers,2,270,3.5,(617) 670-0320,"2 West St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Cactus Mexican Grill,Mexican,1,53,3,(617) 561-2800,"44 Maverick Sq  Boston, MA 02128",2128,42613,55095,38185,Boston
+The Brahmin,American (New),2,246,4,(617) 723-3131,"33 Stanhope St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Solas,Pubs,2,240,3.5,(617) 933-4803,"710 Boylston St  Boston, MA 02199",2199,68080,149005,1004,Boston
+Cafeteria Boston,American (New),2,579,3.5,(617) 536-2233,"279A Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sterlings,American (New),2,61,3,(617) 531-8200,"60 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Aragosta Bar and Bistro,Italian,3,117,3.5,(617) 994-9000,"3 Battery Wharf  Boston, MA 02109",2109,92310,129015,3278,Boston
+Genes Chinese Flatbread Cafe,Chinese,1,93,3.5,(617) 482-1888,"86 Bedford St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Bishops Mediterranean,Mediterranean,1,31,4,(617) 742-3300,"70 Staniford St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Salvatores Theater District,Italian,2,92,4,(617) 542-5555,"545 Washington St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Sweet Carolines Modern Kitchen & Bar,Bars,2,132,3,(617) 424-1260,"1260 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Annas Taqueria,Mexican,1,222,3,(617) 227-8822,"242 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Raising Canes,Fast Food,1,139,3.5,(617) 358-5932,"949 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Ashur Restaurant,Halal,2,18,3.5,(617) 427-0599,"291 Roxbury St  Boston, MA 02119",2119,36316,47419,23537,Boston
+Blackstone Grill,American (Traditional),2,77,4,(857) 265-3480,"15 Union St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Roys Cold Cuts,Delis,1,33,3.5,(617) 567-9760,"198 Marion St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Bristol Restaurant and Bar,American (New),3,203,5,(617) 351-2037,"200 Boylston Street  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sorellina,Italian,4,449,3.5,(617) 412-4600,"1 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Capital One 360 Cafe,Cafes,1,11,4,(888) 464-7868,"129 Tremont St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Boston Indian Kitchen,Indian,1,65,4.5,(617) 859-7400,"51A Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+New Saigon,Vietnamese,1,45,4,(617) 561-6500,"985 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+South Boston Lithuanian Club,Polish,1,13,4.5,(617) 268-9058,"368 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Antonios Cucina Italiana,Italian,2,168,4.5,(617) 367-3310,"286 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Tico,Latin American,3,385,3.5,(617) 351-0400,"222 Berkeley St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Ecco Pizzeria,Pizza,2,107,3.5,(617) 903-4324,"1147 Commonwealth Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+Fins Sushi and Grill,Japanese,2,98,4,(617) 227-2277,"240 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+The Florentine Cafe,Italian,2,266,3.5,(617) 227-1777,"333 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Sidebar Food & Spirits,American (Traditional),1,171,3.5,(617) 357-1899,"14 Bromfield St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Blackstone Grill,American (Traditional),2,77,3.5,(857) 265-3480,"15 Union St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Derne Street Deli,Delis,1,33,3.5,(617) 742-1449,"16 Derne St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Trattoria Il Panino,Italian,2,246,4,(617) 720-1336,"11 Parmenter St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Legal Sea Foods,Seafood,3,319,4,(617) 266-7775,"100 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Panificio,Bakeries,2,188,3.5,(617) 227-4340,"144 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+75 on Liberty Wharf,American (New),2,114,3.5,(617) 227-0754,"220 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Roy’s Cold Cuts,Delis,1,33,3,(617) 567-9760,"198 Marion St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Nebo Cucina & Enoteca,Italian,3,167,5,(617) 723-6326,"520 Atlantic Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Teriyaki House,Japanese,1,198,3,(617) 269-2000,"32 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Totto Ramen,Ramen,2,219,3.5,(617) 202-5075,"169 Brighton Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+Assaggio,Italian,2,178,3,(617) 227-7380,"29 Prince St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Jade Garden,Chinese,2,123,3.5,(617) 423-3288,"18-20 Tyler St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Nick’s House of Pizza & Seafood,Pizza,1,24,3.5,(617) 269-1161,"467 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Mistral,French,4,674,4,(617) 867-9300,"223 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Quincy’s Place,Burgers,2,15,4,(617) 723-3635,"254 Faneuil Hall Market Pl  Boston, MA 02109",2109,92310,129015,3278,Boston
+Ducali Pizzeria & Bar,Pizza,2,177,3.5,(617) 742-4144,"289 Causeway St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Cheers,Bars,2,469,3.5,(617) 227-9605,"84 Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Nicole’s Pizza,Pizza,1,50,3,(617) 266-0223,"639 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Beantown Pub,Pubs,2,397,3,(617) 426-0111,"100 Tremont St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Warehouse Bar & Grille,American (Traditional),2,66,3,(617) 936-4383,"40 Broad St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Equator,Thai,2,127,3.5,(617) 536-6386,"1721 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Max Brenner,Desserts,2,782,3.5,(617) 274-1741,"745 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Upper Crust Pizzeria,Pizza,1,283,3,(617) 723-9600,"20 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Soul Fire BBQ,Barbeque,2,65,3.5,(617) 232-8000,"737 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Roost Bistro On Newbury,American (New),2,52,3.5,(617) 587-4222,"259 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sidebar Food & Spirits,American (Traditional),1,171,3.5,(617) 357-1899,"14 Bromfield St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Derne Street Deli,Delis,1,33,3.5,(617) 742-1449,"16 Derne St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Beneventos,Italian,2,216,4,(617) 523-4111,"111 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Boloco Northeastern,Fast Food,1,119,4,(617) 536-6814,"359 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Moby Dick,Middle Eastern,2,96,3.5,(617) 236-5511,"269 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Viga Eatery & Catering,Italian,1,58,3.5,(617) 482-1112,"133 Pearl St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Poes Kitchen At the Rattlesnake,American (Traditional),2,366,4,(617) 859-8555,"384 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Blue State Coffee,Vegan,1,121,3,(617) 254-0929,"957 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Ethel and Andys Sandwich Shop,Sandwiches,1,9,4,(617) 268-3027,"134 K St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Davios To Go,Italian,1,27,5,(617) 357-4810,"10 St. James St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sidewalk Cafe,Coffee & Tea,1,61,3.5,(617) 464-1977,"764 E 4th St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Loco Taqueria and Oyster Bar,Cocktail Bars,2,98,4,(617) 917-5626,"412 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+The Hill Tavern,Pubs,2,166,4,(617) 742-6192,"228 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Dim Sum Chef,Dim Sum,1,71,3,(617) 254-2073,"1095 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Nicks House of Pizza & Seafood,Pizza,1,24,4,(617) 269-1161,"467 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Stoked Wood Fired Pizza,Food Trucks,1,37,4,(617) 982-3473,"  Boston, MA 02110",2110,102972,135093,1606,Boston
+Teriyaki House,Japanese,1,198,4.5,(617) 269-2000,"32 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Boloco,American (New),1,62,3.5,(617) 357-9013,"50 Congress St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Mother Annas Restaurant,Italian,2,176,3.5,(617) 523-8496,"211 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Pret A Manger,Coffee & Tea,2,78,3.5,(617) 204-9280,"185 Franklin Street  Boston, MA 02110",2110,102972,135093,1606,Boston
+Jevelis,Italian,2,97,4,(617) 567-9539,"387 Chelsea St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Dim Sum Chef,Dim Sum,1,71,3.5,(617) 254-2073,"1095 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Terramia Ristorante,Italian,3,157,4,(617) 523-3112,"98 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+T Anthonys Pizzeria & Restaurant,Pizza,1,188,4,(617) 734-7708,"1016 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+The Hill Tavern,Pubs,2,166,3.5,(617) 742-6192,"228 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Beantown Pub,Pubs,2,397,3,(617) 426-0111,"100 Tremont St  Boston, MA 02108",2108,96033,149809,3324,Boston
+New Market Pizza & Grill,Pizza,1,19,3,(617) 427-1444,"850 Massachusetts Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Nicoles Pizza,Pizza,1,50,4,(617) 266-0223,"639 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Davios To Go,Italian,1,27,3,(617) 357-4810,"10 St. James St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Scholars American Bistro & Cocktail Lounge,American (New),2,228,3.5,(617) 248-0025,"25 School St  Boston, MA 02108",2108,96033,149809,3324,Boston
+House of Siam,Thai,2,79,3,(617) 267-7426,"592 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Trattoria Newbury,Italian,2,73,3.5,(617) 266-0707,"264 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Harborside Grill & Patio,Seafood,2,54,3.5,(617) 568-1234,"101 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Shabumaru,Japanese,2,26,3.5,(617) 437-8888,"10 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Capitol Coffee House,Coffee & Tea,1,66,3.5,(617) 227-4865,"122 Bowdoin St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Jevelis,Italian,2,97,3.5,(617) 567-9539,"387 Chelsea St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Ginger Exchange Symphony,Sushi Bars,2,86,3.5,(617) 867-9999,"250 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Petit Robert Bistro,French,2,273,3,(617) 867-0600,"480 Columbus Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Causeway Restaurant & Bar,Barbeque,2,63,3.5,(617) 227-9100,"65 Causeway St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Bar 10,Lounges,2,92,3.5,(617) 424-7446,"10 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+East Boston Kitchen,Cafes,1,6,3.5,(617) 418-7399,"331 Sumner St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Jevelis,Italian,2,97,5,(617) 567-9539,"387 Chelsea St  Boston, MA 02128",2128,42613,55095,38185,Boston
+New York Pizza,Pizza,1,115,3.5,(617) 266-7020,"435 Massachusetts Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Potbelly Sandwich Shop,Sandwiches,1,52,3,(617) 874-4047,"Logan International Airport 1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Viga Eatery & Catering,Italian,1,58,4,(617) 482-1112,"133 Pearl St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Petit Robert Bistro,French,2,273,4,(617) 867-0600,"480 Columbus Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Sip Cafe,Sandwiches,1,129,3.5,(617) 338-3080,"0 Post Office Sq  Boston, MA 02109",2109,92310,129015,3278,Boston
+Stoked Wood Fired Pizza,Food Trucks,1,37,4,(617) 982-3473,"  Boston, MA 02110",2110,102972,135093,1606,Boston
+The Hill Tavern,Pubs,2,166,4.5,(617) 742-6192,"228 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Macro-Mediterranean Holistic Nutrition,Mediterranean,1,14,3.5,(617) 535-5300,"43 Bowdoin St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Mother Annas Restaurant,Italian,2,176,4,(617) 523-8496,"211 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Anthem Kitchen and Bar,American (New),2,271,3.5,(617) 720-5570,"101 S Market St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Flames Restaurant II,Caribbean,2,96,3.5,(617) 734-1911,"746 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Antonios Cucina Italiana,Italian,2,168,3.5,(617) 367-3310,"286 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Joes American Bar & Grill,American (New),2,301,3.5,(617) 367-8700,"100 Atlantic Ave  Boston, MA 02110",2110,102972,135093,1606,Boston
+Emilios,Pizza,1,89,3,(617) 423-4083,"536 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+T Anthonys Pizzeria & Restaurant,Pizza,1,188,3,(617) 734-7708,"1016 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Boloco,American (New),1,77,3.5,(617) 778-6750,"27 School St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Bin 26 Enoteca,Italian,3,157,3.5,(617) 723-5939,"26 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Barlow’s Restaurant,Bars,2,171,3.5,(617) 338-2142,"241 A St  Boston, MA 02210",2210,61807,86291,413,Boston
+DoubleTree Suites by Hilton Hotel Boston - Cambridge,Hotels,2,78,3,(617) 783-0090,"400 Soldiers Field Rd  Boston, MA 02134",2134,33863,47915,19641,Boston
+Café Jaffa,Middle Eastern,2,295,3.5,(617) 536-0230,"48 Gloucester St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Panera Cares,Cafes,1,39,3.5,(617) 371-3991,"3 Center Plz  Boston, MA 02108",2108,96033,149809,3324,Boston
+Andrew Square House of Pizza,Pizza,1,25,4,(617) 268-1940,"395 Dorchester St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Carlo’s Market & Cold Cut Center,Delis,1,23,4,(617) 567-0058,"567 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+FiRE + iCE  Grill + Bar,American (New),2,430,4.5,(617) 482-3473,"205 Berkeley St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Boloco,American (New),1,62,3,(617) 357-9013,"50 Congress St  Boston, MA 02109",2109,92310,129015,3278,Boston
+The North Star,American (Traditional),2,58,3.5,(617) 723-3222,"222 Friend St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Poe’s Kitchen At the Rattlesnake,American (Traditional),2,366,3.5,(617) 859-8555,"384 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Carlo’s Market & Cold Cut Center,Delis,1,23,3.5,(617) 567-0058,"567 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Stoked Wood Fired Pizza,Food Trucks,1,37,4.5,(617) 982-3473,"  Boston, MA 02110",2110,102972,135093,1606,Boston
+Van Shabu & Bar,Japanese,2,219,4.5,(617) 436-8100,"1156 Dorchester Ave  Boston, MA 02125",2125,44266,57482,32937,Boston
+Terramia Ristorante,Italian,3,157,3.5,(617) 523-3112,"98 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+East Boston Kitchen,Cafes,1,6,4,(617) 418-7399,"331 Sumner St  Boston, MA 02128",2128,42613,55095,38185,Boston
+B. Good,Burgers,1,83,5,(617) 236-5480,"137 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Panera Cares,Cafes,1,39,3.5,(617) 371-3991,"3 Center Plz  Boston, MA 02108",2108,96033,149809,3324,Boston
+The Tam,Dive Bars,1,255,4,,"222 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Il Mondo,Pizza,1,42,3.5,(617) 262-1700,"182 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+La Voile,French,3,287,3.5,(617) 587-4200,"261 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Terramia Ristorante,Italian,3,157,3.5,(617) 523-3112,"98 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Sorellina,Italian,4,449,4,(617) 412-4600,"1 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Archies New York Deli,Delis,1,51,4,(617) 330-5145,"101 Arch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Smile Thai Noodles,Thai,1,53,4,(617) 782-0201,"1095 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Flour Bakery & Cafe,Bakeries,2,691,3.5,(617) 267-4300,"1595 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+The Tam,Dive Bars,1,255,4,,"222 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Black Seed Cafe,Middle Eastern,1,144,3.5,(617) 338-0024,"131 Tremont St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Brownstone,Bars,2,163,3.5,(617) 867-4142,"111 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Papagayo Downtown,Mexican,2,109,3.5,(617) 423-3600,"15 W St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Elephant & Castle,Pubs,2,259,3,(617) 350-9977,"161 Devonshire Street  Boston, MA 02110",2110,102972,135093,1606,Boston
+Teriyaki House,Japanese,1,164,3.5,(617) 236-1008,"1110 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Kayuga,Japanese,2,136,3,(617) 566-8888,"1030 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Quic Pic BBQ,Chinese,1,86,3.5,(617) 426-1110,"50 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+New York Pizza,Pizza,1,153,3.5,(617) 482-3459,"224 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Boloco Northeastern,Fast Food,1,119,3,(617) 536-6814,"359 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Chart House,Seafood,3,336,3.5,(617) 227-1576,"60 Long Wharf  Boston, MA 02110",2110,102972,135093,1606,Boston
+Code 10,Delis,1,77,3,(617) 375-6333,"1638 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Da Vinci,Italian,3,258,3,(617) 350-0007,"162 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Karos BBQ,Food Stands,1,51,4,(857) 244-1174,"State Street (One Washington Mall)  Boston, MA 02110",2110,102972,135093,1606,Boston
+Bar Boulud - Boston,Burgers,3,169,4.5,(617) 535-8800,"776 Boylston St  Boston, MA 02199",2199,68080,149005,1004,Boston
+Archies New York Deli,Delis,1,51,3.5,(617) 330-5145,"101 Arch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Papagayo Downtown,Mexican,2,109,4,(617) 423-3600,"15 W St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Crossroads Irish Pub,Pubs,1,153,3,(857) 233-5943,"495 Beacon St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Legal C Bar - Logan Airport Terminal B,Seafood,2,56,3.5,(857) 241-2000,"1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+IL Mondo Pizzeria,Pizza,1,143,3.5,(617) 277-7161,"682 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Moby Dick,Middle Eastern,2,96,3.5,(617) 236-5511,"269 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Milk Street Cafe,Sandwiches,1,65,3.5,(617) 542-3663,"50 Milk St  Boston, MA 02109",2109,92310,129015,3278,Boston
+49 Social,American (New),3,137,3.5,(617) 338-9600,"49 Temple Pl  Boston, MA 02111",2111,31442,93529,4948,Boston
+wagamama,Asian Fusion,2,324,3,(617) 778-2344,"800 Boylston St  Boston, MA 02199",2199,68080,149005,1004,Boston
+Ki Bistro,Sandwiches,1,57,3,(617) 208-6922,"270 Babcock St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Victoria Seafood Restaurant,Chinese,2,184,3.5,(617) 783-5111,"1029 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Totto Ramen,Ramen,2,219,3.5,(617) 202-5075,"169 Brighton Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+Salsa’s,Mexican,2,157,3,(617) 269-7878,"118 Dorchester St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Limoo Tea Bar,Mediterranean,2,54,3,(617) 396-8823,"1032 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Cafe Arpeggio,Coffee & Tea,1,60,4,(617) 269-8822,"398 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Rosa Mexicano,Mexican,2,272,3.5,(617) 476-6122,"155 Seaport Blvd  Boston, MA 02210",2210,61807,86291,413,Boston
+Thinking Cup,Coffee & Tea,1,270,3,(857) 233-5277,"236 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Archie’s New York Deli,Delis,1,51,4,(617) 330-5145,"101 Arch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Snappy Sushi,Sushi Bars,2,333,4,(617) 262-4530,"108 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Campus Trolley,Food Stands,1,54,3,(617) 236-7884,"665 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Scoozi,Italian,2,97,3.5,(617) 536-7777,"580 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Boston & Maine Fish,Seafood,2,90,3,(617) 723-4111,"1 Faneuil Hall Market Pl  Boston, MA 02109",2109,92310,129015,3278,Boston
+Samurai Boston,Sushi Bars,2,224,3.5,(617) 236-7672,"827 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Drydock Cafe,Seafood,2,34,3.5,(617) 951-2999,"7 Drydock Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Pizzeria 260,Italian,1,32,3.5,(617) 268-9600,"260 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Metro Cafe,Sandwiches,1,68,3.5,(617) 399-2000,"332 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+Suishaya,Japanese,2,154,3.5,(617) 423-3848,"2 Tyler St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Boston Pizza Stop & Cafe,Pizza,1,21,3,(617) 427-4054,"851 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Caskn Flagon,Sports Bars,2,348,4,(617) 536-4840,"62 Brookline Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+El Penol,Latin American,2,25,3,(617) 569-0100,"54 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Empire Asian Restaurant & Lounge,Lounges,3,223,3.5,(617) 295-0001,"1 Marina Park Dr  Boston, MA 02210",2210,61807,86291,413,Boston
+Sorelle,Cafes,1,67,3,(617) 426-5475,"282 Congress St  Boston, MA 02110",2110,102972,135093,1606,Boston
+The Walrus & the Carpenter Oyster Bar,Seafood,2,40,3.5,(617) 742-1530,"1 Faneuil Hall Sq  Boston, MA 02109",2109,92310,129015,3278,Boston
+Pizzeria 260,Italian,1,32,3.5,(617) 268-9600,"260 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Billy Tse Restaurant,Japanese,2,122,3.5,(617) 227-9990,"240 Commercial St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Suishaya,Japanese,2,154,3.5,(617) 423-3848,"2 Tyler St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Campus Trolley,Food Stands,1,54,3,(617) 236-7884,"665 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+China Pearl Restaurant,Dim Sum,2,390,4,(617) 426-4338,"9 Tyler St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Sal’s Pizza,Pizza,1,64,3,(617) 227-1010,"150 Tremont St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Vito’s Tavern,Pubs,2,146,3.5,(857) 277-0229,"54 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Pavia Italian Cuisine,Italian,1,48,3.5,(617) 720-3000,"82 Water St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Fleming’s Prime Steakhouse & Wine Bar,Wine Bars,3,463,4,(617) 292-0808,"217 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sol Azteca,Mexican,2,265,4,(617) 262-0909,"914 Beacon St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Globe Bar and Cafe,American (New),2,244,3.5,(617) 778-6993,"565 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Emerald Lounge,Lounges,2,140,3,(617) 457-2626,"200 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Papagayo Downtown,Mexican,2,109,3,(617) 423-3600,"15 W St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Potluck Cafe,Chinese,1,43,3,(617) 482-1188,"7 Knapp St  Boston, MA 02111",2111,31442,93529,4948,Boston
+163 Vietnamese Sandwiches & Bubble Tea,Vietnamese,1,247,3.5,(617) 542-7903,"66 Harrison Ave  Boston, MA 02111",2111,31442,93529,4948,Boston
+MMMac & Cheese,American (Traditional),1,112,4,,"1 Faneuil Hall Marketplace  Boston, MA 02109",2109,92310,129015,3278,Boston
+The Living Room,Lounges,2,239,3.5,(774) 701-1718,"101 Atlantic Ave  Boston, MA 02110",2110,102972,135093,1606,Boston
+Little Steves Pizzeria,Pizza,1,175,3.5,(617) 266-5566,"1114 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Angora Cafe,Cafes,1,252,3,(617) 232-1757,"1024 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+China Pearl Restaurant,Dim Sum,2,390,3,(617) 426-4338,"9 Tyler St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Bean & Leaf Cafe,Sandwiches,1,33,3,(617) 261-4727,"20 Custom House St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Troquet,French,4,151,4,(617) 695-9463,"140 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+My Thai Vegan Cafe,Thai,2,457,4,(617) 451-2395,"3 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Cheeseboy: Grilled Cheese To Go,Sandwiches,1,97,4,(617) 737-4600,"720 Atlantic Ave  Boston, MA 02110",2110,102972,135093,1606,Boston
+Boston Pizza Stop & Cafe,Pizza,1,21,3.5,(617) 427-4054,"851 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+Sals Ristorante & Pizzeria,Pizza,1,30,4,(617) 268-5800,"205 L St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Oppa Sushi,Sushi Bars,2,32,4,(617) 202-3808,"185 Harvard Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+The Living Room,Lounges,2,239,3.5,(774) 701-1718,"101 Atlantic Ave  Boston, MA 02110",2110,102972,135093,1606,Boston
+MMMac & Cheese,American (Traditional),1,112,3,,"1 Faneuil Hall Marketplace  Boston, MA 02109",2109,92310,129015,3278,Boston
+The Daily Catch,Seafood,3,199,3.5,(617) 772-4400,"2 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+JMP Fine Indian Cuisine,Indian,1,74,2.5,(617) 787-9700,"1095 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Angora Cafe,Cafes,1,252,4,(617) 232-1757,"1024 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Beijing Kyoto,Asian Fusion,1,43,3,(617) 426-1688,"112 South St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Sals Ristorante & Pizzeria,Pizza,1,30,3,(617) 268-5800,"205 L St  Boston, MA 02127",2127,64285,80697,29457,Boston
+T Sushi Wraps & Noodles,Sushi Bars,1,13,4,(617) 505-5155,"350 Longwood Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Nunzios Pizzeria,Pizza,1,34,4,(617) 723-4321,"195 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Globe Bar and Cafe,American (New),2,244,3.5,(617) 778-6993,"565 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+5 Napkin Burger,Burgers,2,456,3.5,(617) 375-2277,"105 Huntington Ave  Boston, MA 02199",2199,68080,149005,1004,Boston
+Victoria Seafood Restaurant,Chinese,2,184,3,(617) 783-5111,"1029 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+JMP Fine Indian Cuisine,Indian,1,74,3.5,(617) 787-9700,"1095 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Nunzios Pizzeria,Pizza,1,34,4,(617) 723-4321,"195 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+U&D Kitchen,Thai,2,19,3.5,(617) 338-8999,"184 High St  Boston, MA 02110",2110,102972,135093,1606,Boston
+T Sushi Wraps & Noodles,Sushi Bars,1,13,3.5,(617) 505-5155,"350 Longwood Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Angora Cafe,Cafes,1,252,4,(617) 232-1757,"1024 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Trattoria Andiamo,Delis,1,34,3,(617) 695-3775,"104 South St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Sals Ristorante & Pizzeria,Pizza,1,30,3.5,(617) 268-5800,"205 L St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Thirst Juice Co,Vegetarian,1,29,4,(857) 233-4535,"44 School St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Sushiemon,Japanese,2,18,3.5,(617) 236-1464,"201 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+B. Good,American (Traditional),2,128,3.5,(617) 227-1006,"255 Washington St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Burritos and Tacos To Go,Mexican,1,25,3.5,,"145 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+The Cornerstone Restaurant & Pub,Pubs,1,21,4,(617) 269-9553,"16 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Mission Sushi & Wok,Sushi Bars,2,88,3.5,(617) 739-8888,"1625 Tremont St  Boston, MA 02120",2120,28794,41569,11553,Boston
+Globe Bar and Cafe,American (New),2,244,3.5,(617) 778-6993,"565 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Lanta Asian Cuisine,Thai,2,22,3,(617) 482-6046,"38 Batterymarch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Cosi,Sandwiches,1,55,3.5,(617) 426-0593,"14 Milk St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Supreme Pizza & Subs,Pizza,1,53,3.5,(617) 247-8252,"177B Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Rosa Mexicano,Mexican,2,272,3.5,(617) 476-6122,"155 Seaport Blvd  Boston, MA 02210",2210,61807,86291,413,Boston
+Boloco,American (New),1,69,3.5,(617) 232-2166,"283 Longwood Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Cheeseboy: Grilled Cheese To Go,Sandwiches,1,97,3.5,(617) 737-4600,"720 Atlantic Ave  Boston, MA 02110",2110,102972,135093,1606,Boston
+La Catrina,Mexican,1,57,3.5,(617) 383-5015,"1620 Commonwealth Ave  Boston, MA 02135",2135,52714,64682,41833,Boston
+Taco Mex,Mexican,2,53,3.5,(617) 569-2838,"65 Maverick Sq  Boston, MA 02128",2128,42613,55095,38185,Boston
+Meritage Restaurant,Restaurants,4,234,3.5,(617) 439-3995,"70 Rowes Wharf  Boston, MA 02110",2110,102972,135093,1606,Boston
+Stats Bar & Grille,Sports Bars,2,69,4,(617) 268-9300,"77 Dorchester St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Murphys Law,Restaurants,1,36,3.5,(617) 269-6667,"837 Summer St  Boston, MA 02127",2127,64285,80697,29457,Boston
+The Medieval Manor Theatre Restaurant,Performing Arts,3,105,3.5,(617) 423-4900,"246 E Berkeley St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Brandy Petes,American (Traditional),2,51,3.5,(617) 439-4165,"265 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Map Room Café,Cafes,2,35,3.5,(617) 859-2250,"230 Darmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Hong Kong At Faneuil Hall,Lounges,1,250,3.5,(617) 227-2226,"65 Chatham St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Crazy Doughs Pizza,Pizza,1,173,3,(617) 266-5656,"1124 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Conor Larkins Grill & Tap,Pubs,1,87,3.5,(617) 867-0084,"329 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Griddlers Burgers & Dogs,Hot Dogs,1,81,3.5,(617) 973-0480,"204 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Clover,Food Stands,1,51,3,,"City Hall Plaza  Boston, MA 02108",2108,96033,149809,3324,Boston
+M.C. Spiedo,Italian,2,53,4,(617) 476-5606,"606 Congress St  Boston, MA 02210",2210,61807,86291,413,Boston
+The Medieval Manor Theatre Restaurant,Performing Arts,3,105,3,(617) 423-4900,"246 E Berkeley St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Halal Indian Cuisine,Indian,1,69,3.5,(617) 232-5000,"736 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Five Guys Burgers and Fries,Burgers,1,67,3.5,(617) 482-2244,"58 Summer St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Potbelly Sandwich Shop,Sandwiches,1,55,3.5,(617) 933-0140,"263 Washington St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Shake Shack,Burgers,2,75,3.5,(617) 933-5050,"234 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+North 26,American (Traditional),2,116,4,(617) 523-3600,"Millennium   Bostonian Hotel  Boston, MA 02109",2109,92310,129015,3278,Boston
+Murphy’s Law,Restaurants,1,36,3.5,(617) 269-6667,"837 Summer St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Vito’s Tavern,Pubs,2,146,3.5,(857) 277-0229,"54 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Salty Dog Seafood Grille & Bar,Seafood,2,183,4.5,(617) 742-2094,"206 Faneuil Hall Market Pl  Boston, MA 02109",2109,92310,129015,3278,Boston
+Bacco,Italian,3,210,3,(617) 624-0454,"107 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+West End Johnnies,American (Traditional),2,187,3.5,(617) 227-1588,"138 Portland St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Little Asia Restaurant,Chinese,2,34,3,(617) 569-8888,"991 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+New Shanghai Restaurant,Chinese,2,66,4,(617) 338-6688,"21 Hudson St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Fleming’s Prime Steakhouse & Wine Bar,Wine Bars,3,463,3.5,(617) 292-0808,"217 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Waterline,American (New),2,22,4,(617) 227-3838,"296 State St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Flat Black Coffee Company,Cafes,2,12,3,(617) 951-1440,"260 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Temazcal Tequila Cantina,Mexican,3,479,4.5,(617) 439-3502,"250 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+J.P. Licks,Ice Cream & Frozen Yogurt,1,56,3,(857) 233-5805,"1106 Boylston St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Bravo,American (New),3,41,4.5,(617) 369-3474,"465 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+North 26,American (Traditional),2,116,3,(617) 523-3600,"Millennium   Bostonian Hotel  Boston, MA 02109",2109,92310,129015,3278,Boston
+Dillon’s,Bars,2,307,3.5,(617) 421-1818,"955 Boylston St  Boston, MA 02115",2115,30282,54356,25637,Boston
+My Thai Vegan Cafe,Thai,2,457,3,(617) 451-2395,"3 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+T Sushi Wraps & Noodles,Sushi Bars,1,13,3.5,(617) 505-5155,"350 Longwood Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Ashburton Cafe,Cafes,2,16,4,(617) 248-3957,"1 Ashburton Pl  Boston, MA 02108",2108,96033,149809,3324,Boston
+6B Lounge,Lounges,2,129,4,(617) 742-0306,"6B Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Freeport Tavern,American (Traditional),2,47,3.5,(617) 282-7700,"780 William T Morrissey Blvd  Boston, MA 02122",2122,45859,59863,24385,Boston
+La Sanghita Cafe,Vegan,1,14,3,(857) 256-2917,"389 Maverick St  Boston, MA 02128",2128,42613,55095,38185,Boston
+PS Gourmet Coffee,Coffee & Tea,1,70,4.5,(617) 269-4020,"106 Dorchester St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Taco Mex,Mexican,2,53,4.5,(617) 569-2838,"65 Maverick Sq  Boston, MA 02128",2128,42613,55095,38185,Boston
+Freshii,Salad,2,22,3.5,(857) 277-0200,"185 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Club Cafe,Pubs,2,231,3.5,(617) 536-0966,"209 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Amelias Taqueria,Mexican,1,25,3.5,(617) 266-0040,"309 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Flemings Prime Steakhouse & Wine Bar,Wine Bars,3,463,3.5,(617) 292-0808,"217 Stuart St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Club Cafe,Pubs,2,231,4,(617) 536-0966,"209 Columbus Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+El Molino,Latin American,1,11,3,(857) 277-1087,"71 Broad St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Salty Dog Seafood Grille & Bar,Seafood,2,183,4.5,(617) 742-2094,"206 Faneuil Hall Market Pl  Boston, MA 02109",2109,92310,129015,3278,Boston
+Kantin,Chinese,1,91,3,(617) 562-8388,"1095 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Little Asia Restaurant,Chinese,2,34,3.5,(617) 569-8888,"991 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Blackjack Pasta Bar,Italian,2,145,4,(617) 266-1313,"52 Queensberry St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Popeyes,Fast Food,1,90,3.5,(617) 262-1687,"21 Brookline Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Little Lamb,Mongolian,2,67,3.5,(857) 233-2688,"326 Cambridge St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Samurai Express,Japanese,2,35,2.5,(617) 431-2281,"31 St James Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sal’s Pizza,Pizza,1,35,3.5,(617) 536-4444,"132 Brookline Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+The Reserve,American (New),3,12,3.5,(617) 451-1900,"250 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Rebecca’s Cafe,Cafes,1,13,3.5,(617) 373-2479,"380 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Bacco,Italian,3,210,4,(617) 624-0454,"107 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Amelia’s Taqueria,Mexican,1,25,3.5,(617) 266-0040,"309 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Carmen Trattoria,Italian,3,147,3.5,(617) 742-6421,"33 North Sq  Boston, MA 02113",2113,60386,84170,6453,Boston
+Piadina Cafe & Coffee Bar,Cafes,1,32,4,(617) 936-4453,"75 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+B. Good,American (Traditional),2,50,3.5,(617) 357-7192,"84 Summer Street  Boston, MA 02110",2110,102972,135093,1606,Boston
+Rebeccas Cafe,Cafes,1,13,3.5,(617) 373-2479,"380 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Scali Cafe,Burgers,1,34,4,(617) 542-1965,"147 Pearl St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Piadina Cafe & Coffee Bar,Cafes,1,32,3.5,(617) 936-4453,"75 State St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Wild Greens,Delis,1,17,3.5,,"100 Federal St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Bacco,Italian,3,210,3.5,(617) 624-0454,"107 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Brighton Landing Cafe,American (New),1,6,3.5,(617) 987-8335,"20 Guest St  Boston, MA 02135",2135,52714,64682,41833,Boston
+Bar Louie,Bars,2,93,4,(617) 449-7010,"121 Brookline Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Refuge Cafe,Cafes,1,179,2.5,(617) 202-5409,"155 Brighton Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+BURGERFI,Burgers,2,97,3,(617) 254-4200,"961 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Brothers Restaurant,American (New),2,70,3,(617) 383-6268,"404 Harvard StBrookline, MA 02446",2446,67338,105307,24351,Boston
+Rosticeria Cancun 2,Mexican,1,7,3.5,(617) 567-1633,"145 Meridian St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Hale and Hearty Soups,Soup,2,16,4.5,(617) 330-1900,"185 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+PS Gourmet Coffee,Coffee & Tea,1,70,4,(617) 269-4020,"106 Dorchester St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Whiskeys Food & Spirits,Bars,2,449,4.5,(617) 262-5551,"885 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Pagliucas,Italian,2,153,2.5,(617) 367-1504,"14 Parmenter St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Carmen Trattoria,Italian,3,147,3,(617) 742-6421,"33 North Sq  Boston, MA 02113",2113,60386,84170,6453,Boston
+Cafe 472,Pizza,1,103,4,(617) 236-4949,"472 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Ristorante Fiore,Italian,3,395,3,(617) 371-1176,"250 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Cheeseboy,American (Traditional),1,52,3.5,(617) 266-7474,"800 Boylston St  Boston, MA 02199",2199,68080,149005,1004,Boston
+Boston Beer Works,Bars,2,139,3.5,(617) 569-2277,"Terminal C  Boston, MA 02128",2128,42613,55095,38185,Boston
+Clarkes Saloon at Faneuil Hall,American (Traditional),2,137,3.5,(617) 227-7800,"21 Merchants Row  Boston, MA 02109",2109,92310,129015,3278,Boston
+Rosticeria Cancun 2,Mexican,1,7,3,(617) 567-1633,"145 Meridian St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Saray Restaurant,Turkish,2,123,4.5,(617) 383-6651,"1098 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Hennessy’s,Pubs,2,188,3,(617) 742-2121,"25 Union St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Sam Adams,American (Traditional),2,7,3,,"1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Upper Crust Pizzeria,Pizza,2,111,4,(617) 927-0090,"683 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Blue State Coffee,Vegan,1,121,3,(617) 254-0929,"957 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Halftime Pizza,Pizza,1,91,4,(617) 720-4578,"115 Causeway St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Cosi,Sandwiches,1,6,3.5,(617) 720-2674,"245 Summer St  Boston, MA 02210",2210,61807,86291,413,Boston
+Susan’s Deli of Course,Delis,1,54,4,(617) 737-3243,"695 Atlantic Ave  Boston, MA 02111",2111,31442,93529,4948,Boston
+High Spot Deli,Delis,1,38,3.5,(617) 742-4000,"10 Beacon St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Cosi,Sandwiches,1,6,4,(617) 720-2674,"245 Summer St  Boston, MA 02210",2210,61807,86291,413,Boston
+Dumpling King,Dim Sum,1,33,4,,"42 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Caffè Strega,Cafes,1,2,3.5,(617) 955-7200,"1 Marina Park Dr  Boston, MA 02210",2210,61807,86291,413,Boston
+Sam Adams,American (Traditional),2,7,4.5,,"1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Cosi,Coffee & Tea,1,37,4,(617) 951-9999,"2 S Station  Boston, MA 02110",2110,102972,135093,1606,Boston
+Red Line Pizza & Grill,Pizza,1,17,3,(617) 464-3003,"580 Dorchester Ave  Boston, MA 02127",2127,64285,80697,29457,Boston
+Saray Restaurant,Turkish,2,123,3.5,(617) 383-6651,"1098 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Cappys Pizza & Subs,Pizza,1,77,3,(617) 247-8801,"82 Westland Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Caffe Pompei,Coffee & Tea,2,310,3,(617) 227-1562,"278 Hanover St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Halftime Pizza,Pizza,1,91,3.5,(617) 720-4578,"115 Causeway St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Times Irish Pub & Restaurant,Bars,2,140,3.5,(617) 357-8463,"112 Broad St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Pizzeria Rico,Pizza,1,54,3,(617) 423-7426,"32 Bromfield St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Clerys Bar & Restaurant,Bars,2,299,3.5,(617) 262-9874,"113 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Four Winds Bar and Grill,Bars,2,25,3,(617) 742-3922,"266 Commercial St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Lincoln Bar & Grill,Bars,1,17,4,(617) 787-3669,"8 Lincoln St  Boston, MA 02135",2135,52714,64682,41833,Boston
+Rome Pizza,Pizza,1,47,4,(617) 695-1640,"416 Tremont St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Scolas Sandwich,Sandwiches,2,15,3,(617) 478-0408,"88 Black Falcon Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Primos Pizza Restaurant,Pizza,1,37,3.5,(617) 437-9000,"28 Myrtle St  Boston, MA 02114",2114,69809,110095,11170,Boston
+The Cheesecake Factory,American (Traditional),2,403,3,(617) 399-7777,"115 Huntington Ave  Boston, MA 02199",2199,68080,149005,1004,Boston
+Upper Crust Pizzeria,Pizza,2,111,3.5,(617) 927-0090,"683 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Beijing Cafe,Chinese,1,113,3,(857) 400-9666,"728 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Red Line Pizza & Grill,Pizza,1,17,3,(617) 464-3003,"580 Dorchester Ave  Boston, MA 02127",2127,64285,80697,29457,Boston
+iPizza & Grill,American (Traditional),1,15,3.5,(617) 269-0880,"283 Old Colony Ave  Boston, MA 02127",2127,64285,80697,29457,Boston
+Central Bistro,French,2,154,4,(617) 737-1777,"101 Arch St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Whiskeys Food & Spirits,Bars,2,449,3.5,(617) 262-5551,"885 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Red Hat,Dive Bars,2,166,2.5,(617) 523-2175,"9 Bowdoin St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Uno Pizzeria & Grill,Pizza,2,89,3.5,(617) 262-4911,"645 Beacon St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Bar Louie,Bars,2,93,3,(617) 449-7010,"121 Brookline Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+The Reserve,American (New),3,12,2.5,(617) 451-1900,"250 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Sheherazad,Food Trucks,2,7,3.5,,"39-53 Drydock Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Tia’s On the Waterfront,Seafood,1,288,4.5,(617) 227-0828,"200 Atlantic Ave  Boston, MA 02110",2110,102972,135093,1606,Boston
+Rebecca’s Cafe,Sandwiches,1,43,2.5,(617) 536-5900,"500 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Charles River Bread,Sandwiches,2,3,3.5,(617) 353-1885,"775 Commonwealth Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Moko Japanese Cuisine,Japanese,2,78,4.5,(617) 752-4601,"674 E Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Marlboro Market,Grocery,2,32,3.5,(617) 536-6614,"45 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+The Playwright,American (Traditional),1,128,4,(617) 269-2537,"658 E Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Beijing Cafe,Chinese,2,113,3,(857) 400-9666,"728 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Gennaro’s 5 North Square,Italian,2,140,3,(617) 720-1050,"5 North Sq  Boston, MA 02113",2113,60386,84170,6453,Boston
+Shake Shack,Burgers,2,75,3.5,(617) 933-5050,"234 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Itadaki,Japanese,2,109,4,(617) 267-0840,"269 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Sports Grill Boston,American (Traditional),2,63,3,(617) 367-9302,"132 Canal St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Red Hat,Dive Bars,2,166,3,(617) 523-2175,"9 Bowdoin St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Au Bon Pain,Delis,1,12,3.5,(617) 739-6860,"75 Francis St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Pushcart Cafe & Pizzeria,Italian,2,122,3.5,(617) 523-8123,"117 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Charles River Bread,Sandwiches,1,3,3.5,(617) 353-1885,"775 Commonwealth Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+El Molino,Latin American,1,11,4.5,(857) 277-1087,"71 Broad St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Moon Villa Restaurant,Chinese,2,39,4.5,(617) 423-2061,"19 Edinboro St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Water Cafe,Mediterranean,2,14,3.5,(617) 478-3291,"100 Northern Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+Cosi,Coffee & Tea,1,37,3,(617) 951-9999,"2 S Station  Boston, MA 02110",2110,102972,135093,1606,Boston
+Dumpling Palace,Taiwanese,2,40,3,(617) 266-8888,"179 Massachusetts Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Great Taste Bakery & Restaurant,Bakeries,1,172,3.5,(617) 426-8899,"63 Beach St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Pushcart Cafe & Pizzeria,Italian,2,122,4,(617) 523-8123,"117 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Rosticeria Cancun 2,Mexican,1,7,3.5,(617) 567-1633,"145 Meridian St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Susans Deli of Course,Delis,1,54,4.5,(617) 737-3243,"695 Atlantic Ave  Boston, MA 02111",2111,31442,93529,4948,Boston
+Stella Cafe,Sandwiches,1,28,3,(617) 247-2900,"1515 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Moon Villa Restaurant,Chinese,2,39,3,(617) 423-2061,"19 Edinboro St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Wings Kitchen,Chinese,2,50,3,(617) 338-2218,"23 Hudson St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Darbar,Pakistani,2,96,3.5,(617) 779-8800,"130 N Beacon St  Boston, MA 02135",2135,52714,64682,41833,Boston
+Che-Chis,Food Stands,1,5,3.5,,"Landsdown St.  Boston, MA 02215",2215,30726,51218,21896,Boston
+Sandellas Flatbread Cafe,Sandwiches,1,17,4,(617) 391-0877,"8 Park Plz  Boston, MA 02116",2116,80153,136491,19480,Boston
+Archies Place,Greek,1,43,3,(617) 723-3354,"12 Pi Alley  Boston, MA 02108",2108,96033,149809,3324,Boston
+Donnas Restaurant,American (Traditional),1,58,3.5,(617) 568-9314,"980 Saratoga St  Boston, MA 02128",2128,42613,55095,38185,Boston
+The Shannon Tavern,Bars,1,9,3.5,(617) 269-9460,"558 E 3rd St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Uno Pizzeria & Grill,Pizza,2,89,4,(617) 262-4911,"645 Beacon St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Four Winds Bar and Grill,Bars,2,25,3,(617) 742-3922,"266 Commercial St  Boston, MA 02109",2109,92310,129015,3278,Boston
+La Chiva Restaurant,Latin American,1,25,3.5,(617) 569-6200,"259 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+The Vegetable Guy,Fruits & Veggies,2,11,3.5,,"18 Parmenter St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Donnas Restaurant,American (Traditional),1,58,4.5,(617) 568-9314,"980 Saratoga St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Big Guys Cafe & Grill,American (Traditional),1,36,3.5,(617) 973-6612,"100 City Hall Plz  Boston, MA 02109",2109,92310,129015,3278,Boston
+Shake Shack,Burgers,2,75,3.5,(617) 933-5050,"234 Newbury St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Downtown Harvard Club of Boston,Venues & Event Spaces,3,29,4,(617) 542-2070,"1 Federal St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Riccardos Ristorante,Italian,2,104,4,(617) 720-3994,"175 North St  Boston, MA 02109",2109,92310,129015,3278,Boston
+Vineyard Grille,Seafood,2,38,3.5,,"1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Darbar,Pakistani,2,96,3,(617) 779-8800,"130 N Beacon St  Boston, MA 02135",2135,52714,64682,41833,Boston
+Thai Dish,Thai,2,98,3.5,(617) 437-9611,"636 Beacon St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Uno Pizzeria & Grill,Pizza,2,89,3.5,(617) 262-4911,"645 Beacon St  Boston, MA 02215",2215,30726,51218,21896,Boston
+Brasserie Jo,French,3,347,3,(617) 425-3240,"120 Huntington Ave  Boston, MA 02116",2116,80153,136491,19480,Boston
+Tutto Italiano,Delis,1,6,3,(617) 557-4002,"20 Fleet St  Boston, MA 02113",2113,60386,84170,6453,Boston
+The Cafe at Taj Boston,Indian,3,45,4,(617) 598-5255,"15 Arlington St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Asian Garden,Chinese,2,69,3,(617) 695-1646,"28 Harrison Ave  Boston, MA 02111",2111,31442,93529,4948,Boston
+Tasty Burger,Burgers,1,82,3.5,(617) 425-4444,"69 L St  Boston, MA 02127",2127,64285,80697,29457,Boston
+Blu Restaurant & Bar,American (New),3,167,3,(857) 263-3540,"4 Avery St 4th Fl  Boston, MA 02111",2111,31442,93529,4948,Boston
+Dolphin Bay,Taiwanese,1,57,4,(617) 562-1668,"72 Brighton Ave  Boston, MA 02134",2134,33863,47915,19641,Boston
+Iron Wok,Chinese,1,3,4.5,,"8 - 10 Park Plz  Boston, MA 02116",2116,80153,136491,19480,Boston
+Ruby Room,Lounges,3,19,3.5,(617) 557-9950,"155 Portland St  Boston, MA 02115",2115,30282,54356,25637,Boston
+Tu Metapan Restaurant,Salvadoran,1,9,3,(617) 418-7383,"295 Bennington St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Wing’s Kitchen,Chinese,2,50,4,(617) 338-2218,"23 Hudson St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Kennedy Fried Chicken,American (Traditional),1,9,3.5,(617) 427-0052,"1041 Tremont St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Sleeper Street Cafe,American (New),1,22,4,(617) 451-8020,"51 Sleeper St  Boston, MA 02210",2210,61807,86291,413,Boston
+Moonshine 152,American (New),2,40,3.5,(617) 752-4191,"152 Dorchester Ave  Boston, MA 02127",2127,64285,80697,29457,Boston
+Internal Matter,Wine Bars,2,14,4,(857) 233-5873,"35 Channel Center St  Boston, MA 02210",2210,61807,86291,413,Boston
+India Quality Restaurant,Indian,2,406,5,(617) 267-4499,"484 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Casserole Cafe,Cafes,1,8,4,(617) 407-3981,"1 Hamilton Pl  Boston, MA 02108",2108,96033,149809,3324,Boston
+Freshii,Coffee & Tea,2,31,3.5,(857) 496-0656,"1 Iron St  Boston, MA 02210",2210,61807,86291,413,Boston
+Uno Pizzeria & Grill,Pizza,2,91,3.5,(617) 424-1697,"280 Huntington Ave.  Boston, MA 02115",2115,30282,54356,25637,Boston
+Jimmy Johns,Sandwiches,1,24,2.5,(857) 317-3947,"413 D St  Boston, MA 02210",2210,61807,86291,413,Boston
+Fins Sushi & Grill,Sushi Bars,2,25,3,(617) 423-4888,"62 Boylston St  Boston, MA 02116",2116,80153,136491,19480,Boston
+Townsman,Brasseries,3,81,3,(617) 993-0750,"120 Kingston St  Boston, MA 02111",2111,31442,93529,4948,Boston
+Qdoba Mexican Grill,Mexican,1,100,3.5,(617) 450-0910,"393 Huntington Ave  Boston, MA 02115",2115,30282,54356,25637,Boston
+Broadway Pizza,Pizza,1,35,3,(617) 268-1228,"321 W Broadway  Boston, MA 02127",2127,64285,80697,29457,Boston
+Bon Me,Food Trucks,1,15,3,(617) 945-9804,"Cleveland Cir  Boston, MA 02135",2135,52714,64682,41833,Boston
+Beacon Hill Hotel & Bistro,Hotels,3,247,4,(617) 723-1133,"25 Charles St  Boston, MA 02114",2114,69809,110095,11170,Boston
+Jerry Remys Sports Bar and Grill,American (Traditional),2,59,3.5,(617) 567-5379,"1 Harborside Dr  Boston, MA 02128",2128,42613,55095,38185,Boston
+Wongs of Boston,Chinese,1,4,3.5,(617) 482-9069,"417 Washington St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Venezia,Venues & Event Spaces,3,107,3.5,(617) 436-3120,"20 Ericsson St  Boston, MA 02122",2122,45859,59863,24385,Boston
+New China Restaurant,Chinese,1,29,3,(617) 445-9670,"869 Harrison Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+The New Ho Toy,Chinese,1,45,3.5,(617) 268-2285,"218 Old Colony Ave  Boston, MA 02127",2127,64285,80697,29457,Boston
+Auntie Vies Bakery Cafe,Bakeries,4,4,3,(617) 436-1111,"482 Washington St  Boston, MA 02124",2124,43598,56611,51236,Boston
+Strip By Strega,American (Traditional),2,29,5,(617) 456-5300,"64 Arlington St  Boston, MA 02116",2116,80153,136491,19480,Boston
+House of Siam,Thai,1,153,3.5,(617) 267-1755,"542 Columbus Ave  Boston, MA 02118",2118,51368,82360,22527,Boston
+La Fogata,Mexican,3,7,3.5,(617) 569-4120,"226 Sumner St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Foodies Urban Market,Grocery,2,121,4,(617) 266-9911,"1421 Washington St  Boston, MA 02118",2118,51368,82360,22527,Boston
+Ts Pub,Bars,1,87,3.5,(617) 254-0807,"973 Commonwealth Ave  Boston, MA 02215",2215,30726,51218,21896,Boston
+Viga,Sandwiches,1,66,3.5,(617) 742-8442,"275 Washington St  Boston, MA 02108",2108,96033,149809,3324,Boston
+Tasty Burger - Back Bay,Burgers,1,30,3.5,(617) 425-4444,"145 Dartmouth St  Boston, MA 02116",2116,80153,136491,19480,Boston
+L’osteria,Italian,2,177,5,(617) 723-7847,"104 Salem St  Boston, MA 02113",2113,60386,84170,6453,Boston
+Sheherazad,Food Trucks,1,7,3.5,,"39-53 Drydock Ave  Boston, MA 02210",2210,61807,86291,413,Boston
+La Fogata,Mexican,2,7,4.5,(617) 569-4120,"226 Sumner St  Boston, MA 02128",2128,42613,55095,38185,Boston
+Hale and Hearty Soups,Soup,1,16,4,(617) 330-1900,"185 Franklin St  Boston, MA 02110",2110,102972,135093,1606,Boston
+Panera Bread,Sandwiches,2,63,4,(617) 722-8234,"115 Stuart Street  Boston, MA 02116",2116,80153,136491,19480,Boston
+Mojitos Latin Lounge & Nightclub,Bars,2,48,2.5,(617) 834-0552,"48 Winter St  Boston, MA 02108",2108,96033,149809,3324,Boston

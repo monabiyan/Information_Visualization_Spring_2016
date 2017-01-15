@@ -1,0 +1,9 @@
+library(maps)#
+library(mapdata)#
+library(gridExtra)#
+library(rgeos)#
+library(ggplot2)#
+library(sp)
+map %>%
+s
+# install GGplot2 package
